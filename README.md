@@ -1,2 +1,0 @@
-# suzannebellue.github.io
-Website
