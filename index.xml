@@ -6,7 +6,7 @@
     <description>Recent content on Suzanne Bellue</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 02 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://silvia.rbind.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 30 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://silvia.rbind.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>WAVE Audit No. 1</title>
       <link>https://silvia.rbind.io/blog/2021-a11y-website/01-wave-audit-1/</link>
@@ -15,6 +15,15 @@
       <guid>https://silvia.rbind.io/blog/2021-a11y-website/01-wave-audit-1/</guid>
       <description>.page-main img { box-shadow: 0px 0px 2px 2px rgba( 0, 0, 0, 0.2 ); #/* ease | ease-in | ease-out | linear */ transition: transform ease-in-out 0.6s; } .page-main img:hover { transform: scale(1.4); }   Did you know that 97.4% of home pages have web accessibility failures??? 😱
  This finding is one of many from an accessibility analysis that non-profit WebAIM (Web Accessibility in Mind) conducts annually on home pages of the top one million websites.</description>
+    </item>
+    
+    <item>
+      <title>Social Mobility with Subjective Beliefs: The Effects of Neighborhoods on Investment Choices</title>
+      <link>https://silvia.rbind.io/publication/smm-individual-neighborhood/</link>
+      <pubDate>Wed, 30 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://silvia.rbind.io/publication/smm-individual-neighborhood/</guid>
+      <description>Neighborhoods in the US shape future economics outcomes of children who grow up in them, and their endogenous demographic composition define who are the role models for those children. I develop and estimate a structural spatial equilibrium model of parental investments in which residential choices exogenously impact the human capital formation of children, and endogenously shape their expectations about the returns to educational investments. Under the assumption that agents are unable to perfectly estimate the bias that spatial sorting introduces, this model generates persistent misbeliefs about returns to educational investment that are correlated with earnings.</description>
     </item>
     
     <item>
@@ -48,24 +57,6 @@ Thank you for visiting my site and for taking the time to read this page</descri
     </item>
     
     <item>
-      <title>A Bayesian Hierarchical Modeling Framework for Geospatial Analysis of Adverse Pregnancy Outcomes</title>
-      <link>https://silvia.rbind.io/publication/geospatial-analysis-pregnancy-outcomes/</link>
-      <pubDate>Tue, 11 May 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://silvia.rbind.io/publication/geospatial-analysis-pregnancy-outcomes/</guid>
-      <description>Study describing a Bayesian hierarchichal modeling framework used to explore which neighborhood-level factors and patient-level features were most informative for preterm birth and stillbirth pregnancy outcomes.</description>
-    </item>
-    
-    <item>
-      <title>Revealing Room for Improvement in Accessibility within a Social Media Data Visualization Learning Community</title>
-      <link>https://silvia.rbind.io/talk/2021-05-04-data-viz-accessibility/</link>
-      <pubDate>Tue, 04 May 2021 10:20:00 +0000</pubDate>
-      
-      <guid>https://silvia.rbind.io/talk/2021-05-04-data-viz-accessibility/</guid>
-      <description>Data visualization accessibility talk to share what we found after scraping alternative (alt) text from data viz shared on Twitter as part of the #TidyTuesday social project.</description>
-    </item>
-    
-    <item>
       <title>TidyTuesdayAltText</title>
       <link>https://silvia.rbind.io/project/tidy-tuesday-alt-text/</link>
       <pubDate>Tue, 04 May 2021 00:00:00 +0000</pubDate>
@@ -77,48 +68,12 @@ These tweets were processed and scraped for alternative text by Silvia Canelón 
     </item>
     
     <item>
-      <title>Individual-Level and Neighborhood-Level Risk Factors for Severe Maternal Morbidity</title>
-      <link>https://silvia.rbind.io/publication/smm-individual-neighborhood/</link>
-      <pubDate>Thu, 08 Apr 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://silvia.rbind.io/publication/smm-individual-neighborhood/</guid>
-      <description>Study showing that neighborhood-level risk factors are independent predictors of Severe Maternal Morbidity, providing further evidence that racial disparities in maternal outcomes are symptoms of historical and structural racism.</description>
-    </item>
-    
-    <item>
-      <title>The Impact of Sickle Cell Status on Adverse Delivery Outcomes Using Electronic Health Record Data</title>
-      <link>https://silvia.rbind.io/talk/2021-03-22-amia-informatics-summit/</link>
-      <pubDate>Mon, 22 Mar 2021 11:30:00 +0000</pubDate>
-      
-      <guid>https://silvia.rbind.io/talk/2021-03-22-amia-informatics-summit/</guid>
-      <description>Applied Clinical Research Informatics: Solving Real World Problems. Oral Presentations S17: March 23, 2021 11:30am-1pm ET</description>
-    </item>
-    
-    <item>
-      <title>Writing Presentations in R</title>
-      <link>https://silvia.rbind.io/talk/2021-03-16-xaringan-deploy-demo/</link>
-      <pubDate>Tue, 16 Mar 2021 17:30:00 +0000</pubDate>
-      
-      <guid>https://silvia.rbind.io/talk/2021-03-16-xaringan-deploy-demo/</guid>
-      <description>R-Ladies Seattle package demonstrations showing how to make beautiful slides with xaringan and how to deploy them.</description>
-    </item>
-    
-    <item>
       <title>Deploying xaringan Slides: A Ten-Step GitHub Pages Workflow</title>
       <link>https://silvia.rbind.io/blog/deploying-xaringan-slides/</link>
       <pubDate>Tue, 16 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>https://silvia.rbind.io/blog/deploying-xaringan-slides/</guid>
       <description>A ten-step workflow for creating an HTML xaringan slide deck and deploying it to the web using GitHub Pages</description>
-    </item>
-    
-    <item>
-      <title>From Learn-R to Teach-R: An Expert Panel on Effective R Instruction</title>
-      <link>https://silvia.rbind.io/talk/2021-02-18-r-teaching-panel/</link>
-      <pubDate>Thu, 18 Feb 2021 18:00:00 +0000</pubDate>
-      
-      <guid>https://silvia.rbind.io/talk/2021-02-18-r-teaching-panel/</guid>
-      <description>An R-Ladies Philly panel and discussion event on R instruction and education.</description>
     </item>
     
     <item>
@@ -142,50 +97,12 @@ Yo participé como traductora del capítulo &amp;ldquo;Motivation and Demotivati
     </item>
     
     <item>
-      <title>Introducción al Paquete xaringan</title>
-      <link>https://silvia.rbind.io/talk/2020-12-17-introduccion-xaringan/</link>
-      <pubDate>Thu, 17 Dec 2020 18:00:00 +0000</pubDate>
-      
-      <guid>https://silvia.rbind.io/talk/2020-12-17-introduccion-xaringan/</guid>
-      <description>Taller del paquete xaringan para presentaciones,&lt;br&gt;creado para R-Ladies Xalapa</description>
-    </item>
-    
-    <item>
-      <title>Not All C-sections Are the Same: Investigating Emergency vs. Elective C-section Deliveries as an Adverse Pregnancy Outcome</title>
-      <link>https://silvia.rbind.io/publication/csections-emergency-admissions/</link>
-      <pubDate>Thu, 10 Dec 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://silvia.rbind.io/publication/csections-emergency-admissions/</guid>
-      <description>Publication and poster accepted for the 2021 Pacific Biocomputing Symposium. This study utilizes Electronic Health Record (EHR) data to assess the impact of pregnancy-specific maternal morbidity and patient-specific characteristics on experiencing an emergency admission at the time of delivery and its relationship to Cesarean section (C-section) deliveries</description>
-    </item>
-    
-    <item>
       <title>nhsr CSS Theme for xaringan</title>
       <link>https://silvia.rbind.io/project/xaringan/</link>
       <pubDate>Wed, 09 Dec 2020 00:00:00 +0000</pubDate>
       
       <guid>https://silvia.rbind.io/project/xaringan/</guid>
       <description>Theme      In preparation for a xaringan workshop I created for the NHS-R 2020 Conference, I designed a custom CSS theme with input from the NHS-R Community that followed the NHS identity guidelines. This theme was also contributed to the nhsrtheme package developed by Tom Jemmett.</description>
-    </item>
-    
-    <item>
-      <title>Development and Evaluation of MADDIE: Method to Acquire Delivery Date Information from Electronic Health Records</title>
-      <link>https://silvia.rbind.io/publication/maddie-ehr-delivery-episode-algorithm/</link>
-      <pubDate>Tue, 17 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://silvia.rbind.io/publication/maddie-ehr-delivery-episode-algorithm/</guid>
-      <description>An R algorithm designed to extract delivery episode details from structured Electronic Health Record data.</description>
-    </item>
-    
-    <item>
-      <title>Sharing Your Work with xaringan: The Basics and Beyond</title>
-      <link>https://silvia.rbind.io/talk/2020-11-03-xaringan-basics-and-beyond/</link>
-      <pubDate>Tue, 03 Nov 2020 15:00:00 +0000</pubDate>
-      
-      <guid>https://silvia.rbind.io/talk/2020-11-03-xaringan-basics-and-beyond/</guid>
-      <description>An introduction to xaringan for presentations, created for the 
-&lt;a href=&#34;https://nhsrcommunity.com/about/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NHS-R Community&lt;/a&gt; 
-&lt;a href=&#34;https://nhsrcommunity.com/nhsr-conference-2020/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;2020 Virtual Conference&lt;/a&gt;</description>
     </item>
     
     <item>
@@ -218,16 +135,6 @@ Day 2 covers how to take your slides to the next level with the xaringanExtra pa
     </item>
     
     <item>
-      <title>An Antarctic Tour of the Tidyverse</title>
-      <link>https://silvia.rbind.io/talk/2020-08-31-tour-of-the-tidyverse/</link>
-      <pubDate>Mon, 31 Aug 2020 17:40:00 +0000</pubDate>
-      
-      <guid>https://silvia.rbind.io/talk/2020-08-31-tour-of-the-tidyverse/</guid>
-      <description>An introductory tidyverse tutorial created and presented for 
-&lt;a href=&#34;https://rladieschicago.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;R-Ladies Chicago&lt;/a&gt;</description>
-    </item>
-    
-    <item>
       <title>Customizing Hugo Academic&#39;s Dark Mode with Help from Atom</title>
       <link>https://silvia.rbind.io/blog/dark-theme-custom-with-atom/</link>
       <pubDate>Tue, 16 Jun 2020 00:00:00 +0000</pubDate>
@@ -243,51 +150,6 @@ Day 2 covers how to take your slides to the next level with the xaringanExtra pa
       
       <guid>https://silvia.rbind.io/blog/trello-to-airtable/</guid>
       <description>Tutorial on how to migrate your current Trello board to an Airtable base from start to finish.</description>
-    </item>
-    
-    <item>
-      <title>Is Hydroxychloroquine Safe During Pregnancy? Observations from Penn Medicine</title>
-      <link>https://silvia.rbind.io/publication/preprint-hydroxychloroquine-pregnancy/</link>
-      <pubDate>Wed, 06 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://silvia.rbind.io/publication/preprint-hydroxychloroquine-pregnancy/</guid>
-      <description>Preprint as a contribution from a rapid response exploration of hydroxychloroquine effects on pregnancy-related outcomes.</description>
-    </item>
-    
-    <item>
-      <title>Visualizing the Inside Journey of Recovery from Opioid Use Disorder</title>
-      <link>https://silvia.rbind.io/publication/data-hack-opioid/</link>
-      <pubDate>Wed, 25 Mar 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://silvia.rbind.io/publication/data-hack-opioid/</guid>
-      <description>Code for Philly 2020 Opioid Data Hackathon project to better understand recovery from opioid use disorder.</description>
-    </item>
-    
-    <item>
-      <title>A Systematic Literature Review of Factors Affecting the Timing of Menarche: The Potential for Climate Change to Impact Women’s Health</title>
-      <link>https://silvia.rbind.io/publication/climate-change-menarche/</link>
-      <pubDate>Thu, 05 Mar 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://silvia.rbind.io/publication/climate-change-menarche/</guid>
-      <description>Review paper highlighting how climate change could impact the timing of first menstruation and increase the burden of disease.</description>
-    </item>
-    
-    <item>
-      <title>Investigating Pregnancy-Related Health Outcomes Among Patients with Sickle Cell Disease and Linking with Health Disparities</title>
-      <link>https://silvia.rbind.io/publication/amia-annual-symposium/</link>
-      <pubDate>Wed, 20 Nov 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://silvia.rbind.io/publication/amia-annual-symposium/</guid>
-      <description>Poster presented at the 2019 American Medical Informatics Association Annual Symposium held November 16th-20th in Washington D.C.</description>
-    </item>
-    
-    <item>
-      <title>Substrate Strain Mitigates Effects of β-Aminopropionitrile-Induced Reduction in Enzymatic Crosslinking</title>
-      <link>https://silvia.rbind.io/publication/bapn-substrate-strain/</link>
-      <pubDate>Tue, 03 Sep 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://silvia.rbind.io/publication/bapn-substrate-strain/</guid>
-      <description>Research highlighting how the effects of BAPN on type I collagen, produced by osteoblasts, were mitigated by mechanical loading.</description>
     </item>
     
     <item>
@@ -310,21 +172,13 @@ Formspree requires a (free) account and new form to be set up. The link is made 
     </item>
     
     <item>
-      <title>Characterization of Type I Collagen and Osteoblast Response to Mechanical Loading</title>
-      <link>https://silvia.rbind.io/publication/dissertation/</link>
-      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      <title>Typography Styles &amp; Element Examples</title>
+      <link>https://silvia.rbind.io/teaching/</link>
+      <pubDate>Mon, 18 Feb 2019 12:27:33 -0600</pubDate>
       
-      <guid>https://silvia.rbind.io/publication/dissertation/</guid>
-      <description>Dissertation completed as part of the requirements for a doctorate degree in Biomedical Engineering.</description>
-    </item>
-    
-    <item>
-      <title>β-Aminopropionitrile-Induced Reduction in Enzymatic Crosslinking Causes In Vitro Changes in Collagen Morphology and Molecular Composition</title>
-      <link>https://silvia.rbind.io/publication/bapn-morphology/</link>
-      <pubDate>Sun, 06 Nov 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://silvia.rbind.io/publication/bapn-morphology/</guid>
-      <description>Publication highlighting how a reduction in enzymatic crosslinking alters type I collagen morphology through an increase in D-spacing.</description>
+      <guid>https://silvia.rbind.io/teaching/</guid>
+      <description>
+ Teaching Assistant 2021: Demographic transition and development - STEG lecture - Pr. Michèle Tertilt 2017: Public Economics - Sciences Po Paris - Pr. Emeric Henry 2014: Macroeconomics - Pontificia Universidad Católica de Chile - Pr. Matías Tapia     Research Assistant 2019 - .: Research assistant of Pr. Michèle Tertilt - Mannheim University 2015 - 2018: J-PAL Europe - Paris School of Economics 2015: J-PAL LAC - Pontificia Universidad Católica de Chile   </description>
     </item>
     
   </channel>

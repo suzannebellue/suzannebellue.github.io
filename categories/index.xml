@@ -44,15 +44,6 @@
     </item>
     
     <item>
-      <title>Research</title>
-      <link>https://silvia.rbind.io/categories/research/</link>
-      <pubDate>Tue, 11 May 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://silvia.rbind.io/categories/research/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Package</title>
       <link>https://silvia.rbind.io/categories/package/</link>
       <pubDate>Tue, 04 May 2021 00:00:00 +0000</pubDate>
@@ -62,38 +53,11 @@
     </item>
     
     <item>
-      <title>Demo</title>
-      <link>https://silvia.rbind.io/categories/demo/</link>
-      <pubDate>Tue, 16 Mar 2021 17:30:00 +0000</pubDate>
-      
-      <guid>https://silvia.rbind.io/categories/demo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Castellano</title>
       <link>https://silvia.rbind.io/categories/castellano/</link>
       <pubDate>Mon, 28 Dec 2020 00:00:00 +0000</pubDate>
       
       <guid>https://silvia.rbind.io/categories/castellano/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Workshop</title>
-      <link>https://silvia.rbind.io/categories/workshop/</link>
-      <pubDate>Thu, 17 Dec 2020 18:00:00 +0000</pubDate>
-      
-      <guid>https://silvia.rbind.io/categories/workshop/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>xaringan</title>
-      <link>https://silvia.rbind.io/categories/xaringan/</link>
-      <pubDate>Tue, 03 Nov 2020 15:00:00 +0000</pubDate>
-      
-      <guid>https://silvia.rbind.io/categories/xaringan/</guid>
       <description></description>
     </item>
     

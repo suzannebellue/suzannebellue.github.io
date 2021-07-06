@@ -6,16 +6,7 @@
     <description>Recent content in TidyTuesdayAltText on Suzanne Bellue</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 04 May 2021 10:20:00 +0000</lastBuildDate><atom:link href="https://silvia.rbind.io/tags/tidytuesdayalttext/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Revealing Room for Improvement in Accessibility within a Social Media Data Visualization Learning Community</title>
-      <link>https://silvia.rbind.io/talk/2021-05-04-data-viz-accessibility/</link>
-      <pubDate>Tue, 04 May 2021 10:20:00 +0000</pubDate>
-      
-      <guid>https://silvia.rbind.io/talk/2021-05-04-data-viz-accessibility/</guid>
-      <description>Data visualization accessibility talk to share what we found after scraping alternative (alt) text from data viz shared on Twitter as part of the #TidyTuesday social project.</description>
-    </item>
-    
+    <lastBuildDate>Tue, 04 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://silvia.rbind.io/tags/tidytuesdayalttext/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>TidyTuesdayAltText</title>
       <link>https://silvia.rbind.io/project/tidy-tuesday-alt-text/</link>
