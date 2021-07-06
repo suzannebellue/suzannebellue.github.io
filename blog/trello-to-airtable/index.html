@@ -28,22 +28,22 @@
 <meta property="og:title" content="Migrating from Trello to Airtable: Working with JSON Data in R | Suzanne Bellue">
 <meta property="og:description" content="Tutorial on how to migrate your current Trello board to an Airtable base from start to finish." />
 <meta property="og:type" content="page" />
-<meta property="og:url" content="https://silvia.rbind.io/blog/trello-to-airtable/" />
+<meta property="og:url" content="https://suzannebellue.github.io/blog/trello-to-airtable/" />
 <meta property="og:locale" content="en">
 
 
 
 
     
-        <meta property="og:image" content="https://silvia.rbind.io/blog/trello-to-airtable/featured.png" >
+        <meta property="og:image" content="https://suzannebellue.github.io/blog/trello-to-airtable/featured.png" >
         <meta property="twitter:card" content="summary_large_image">
-        <meta name="twitter:image" content="https://silvia.rbind.io/blog/trello-to-airtable/featured.png" >
+        <meta name="twitter:image" content="https://suzannebellue.github.io/blog/trello-to-airtable/featured.png" >
     
     
   <meta itemprop="name" content="Migrating from Trello to Airtable: Working with JSON Data in R">
 <meta itemprop="description" content="Tutorial on how to migrate your current Trello board to an Airtable base from start to finish."><meta itemprop="datePublished" content="2020-05-12T00:00:00+00:00" />
 <meta itemprop="dateModified" content="2020-05-12T00:00:00+00:00" />
-<meta itemprop="wordCount" content="2408"><meta itemprop="image" content="https://silvia.rbind.io/blog/trello-to-airtable/featured.png">
+<meta itemprop="wordCount" content="2408"><meta itemprop="image" content="https://suzannebellue.github.io/blog/trello-to-airtable/featured.png">
 <meta itemprop="keywords" content="json,jsonlite,tidyverse," />
   
   <!--[if IE]><script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
@@ -63,7 +63,7 @@
       <div class="grid-container single-sidebar">
 <header class="site-header pt4 pb2 mb4 bb b--transparent ph5 headroom z-max" role="banner">
   <nav class="site-nav db dt-l w-100" role="navigation">
-    <a class="site-brand db dtc-l v-mid link no-underline w-100 w-33-l tc tl-l" href="https://silvia.rbind.io/" title="Home">
+    <a class="site-brand db dtc-l v-mid link no-underline w-100 w-33-l tc tl-l" href="https://suzannebellue.github.io/" title="Home">
       <img src="/img/blogophonic-mark-dark.png" class="dib db-l h2 w-auto" alt="Suzanne Bellue">
     </a>
     <div class="site-links db dtc-l v-mid w-100 w-47-l tc tr-l mt3 mt0-l ttu tracked">
@@ -94,16 +94,16 @@
       <header class="post-header">
         <h1 class="f1 lh-solid measure-narrow mb3 fw4">Migrating from Trello to Airtable: Working with JSON Data in R</h1>
         <h4 class="f4 mt0 mb4 lh-title measure">Tutorial on how to migrate your current Trello board to an Airtable base from start to finish.</h4>
-        <p class="f6 measure lh-copy mv1">By Silvia Canelón in <a href="https://silvia.rbind.io/categories/r">R</a>  <a href="https://silvia.rbind.io/categories/tutorial">Tutorial</a> </p>
+        <p class="f6 measure lh-copy mv1">By Silvia Canelón in <a href="https://suzannebellue.github.io/categories/r">R</a>  <a href="https://suzannebellue.github.io/categories/tutorial">Tutorial</a> </p>
         <p class="f7 db mv0 ttu">May 12, 2020</p>
       </header>
       <section class="post-body pt5 pb4">
-        <script src="https://silvia.rbind.io/blog/trello-to-airtable/index_files/clipboard/clipboard.min.js"></script>
-<link href="https://silvia.rbind.io/blog/trello-to-airtable/index_files/xaringanExtra-clipboard/xaringanExtra-clipboard.css" rel="stylesheet" />
-<script src="https://silvia.rbind.io/blog/trello-to-airtable/index_files/xaringanExtra-clipboard/xaringanExtra-clipboard.js"></script>
+        <script src="https://suzannebellue.github.io/blog/trello-to-airtable/index_files/clipboard/clipboard.min.js"></script>
+<link href="https://suzannebellue.github.io/blog/trello-to-airtable/index_files/xaringanExtra-clipboard/xaringanExtra-clipboard.css" rel="stylesheet" />
+<script src="https://suzannebellue.github.io/blog/trello-to-airtable/index_files/xaringanExtra-clipboard/xaringanExtra-clipboard.js"></script>
 <script>window.xaringanExtraClipboard(null, {"button":"<i class=\"fa fa-clipboard\"><\/i> Copy Code","success":"<i class=\"fa fa-check\" style=\"color: #90BE6D\"><\/i> Copied!","error":"Press Ctrl+C to Copy"})</script>
-<link href="https://silvia.rbind.io/blog/trello-to-airtable/index_files/font-awesome/css/all.css" rel="stylesheet" />
-<link href="https://silvia.rbind.io/blog/trello-to-airtable/index_files/font-awesome/css/v4-shims.css" rel="stylesheet" />
+<link href="https://suzannebellue.github.io/blog/trello-to-airtable/index_files/font-awesome/css/all.css" rel="stylesheet" />
+<link href="https://suzannebellue.github.io/blog/trello-to-airtable/index_files/font-awesome/css/v4-shims.css" rel="stylesheet" />
 <p><strong>
 <a href="https://airtable.com/" target="_blank" rel="noopener">Airtable</a> is a user-friendly and <em>powerful</em> tool</strong> that until recently I&rsquo;d been using for personal projects (i.e. document organizing, apartment hunting, etc.). A couple of weeks ago I leaned on Airtable to create a base designed for the 
 <a href="https://www.womensmedicalfund.org/prfc" target="_blank" rel="noopener">Philadelphia Reproductive Freedom Collective</a> to support our COVID-19 mutual aid efforts.</p>
@@ -602,12 +602,12 @@ More detailed instructions can be found in
   
   
     <a class="prev dtc pr2 tl v-top fw6"
-    href="https://silvia.rbind.io/blog/dark-theme-custom-with-atom/">&larr; Customizing Hugo Academic&#39;s Dark Mode with Help from Atom</a>
+    href="https://suzannebellue.github.io/blog/dark-theme-custom-with-atom/">&larr; Customizing Hugo Academic&#39;s Dark Mode with Help from Atom</a>
   
   
   
     <a class="next dtc pl2 tr v-top fw6"
-    href="https://silvia.rbind.io/blog/ccd-sips/">Philly Center City Sips 2019: An Interactive Map &rarr;</a>
+    href="https://suzannebellue.github.io/blog/ccd-sips/">Philly Center City Sips 2019: An Interactive Map &rarr;</a>
   
 </div>
 
@@ -678,14 +678,14 @@ More detailed instructions can be found in
   
   <dl class="f6 lh-copy">
     <dt class="fw7">Categories:</dt>
-    <dd class="fw5 ml0"> <a href="https://silvia.rbind.io/categories/r">R</a>  <a href="https://silvia.rbind.io/categories/tutorial">Tutorial</a> </dd>
+    <dd class="fw5 ml0"> <a href="https://suzannebellue.github.io/categories/r">R</a>  <a href="https://suzannebellue.github.io/categories/tutorial">Tutorial</a> </dd>
   </dl>
   
   
   
   <dl class="f6 lh-copy">
     <dt class="fw7">Tags:</dt>
-    <dd class="fw5 ml0"> <a href="https://silvia.rbind.io/tags/json">json</a>  <a href="https://silvia.rbind.io/tags/jsonlite">jsonlite</a>  <a href="https://silvia.rbind.io/tags/tidyverse">tidyverse</a> </dd>
+    <dd class="fw5 ml0"> <a href="https://suzannebellue.github.io/tags/json">json</a>  <a href="https://suzannebellue.github.io/tags/jsonlite">jsonlite</a>  <a href="https://suzannebellue.github.io/tags/tidyverse">tidyverse</a> </dd>
   </dl>
   
   <dl class="f6 lh-copy">

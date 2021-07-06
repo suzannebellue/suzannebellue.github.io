@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>git on Suzanne Bellue</title>
-    <link>https://silvia.rbind.io/tags/git/</link>
+    <link>https://suzannebellue.github.io/tags/git/</link>
     <description>Recent content in git on Suzanne Bellue</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 01 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://silvia.rbind.io/tags/git/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://suzannebellue.github.io/tags/git/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello Hugo Apéro: Converting a Blogdown Site from Hugo Academic</title>
-      <link>https://silvia.rbind.io/blog/hello-hugo-apero/</link>
+      <link>https://suzannebellue.github.io/blog/hello-hugo-apero/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://silvia.rbind.io/blog/hello-hugo-apero/</guid>
+      <guid>https://suzannebellue.github.io/blog/hello-hugo-apero/</guid>
       <description>A tutorial on how to take your personal Hugo Academic/Wowchemy website and convert it to the Hugo Apéro theme</description>
     </item>
     
     <item>
       <title>Deploying xaringan Slides: A Ten-Step GitHub Pages Workflow</title>
-      <link>https://silvia.rbind.io/blog/deploying-xaringan-slides/</link>
+      <link>https://suzannebellue.github.io/blog/deploying-xaringan-slides/</link>
       <pubDate>Tue, 16 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://silvia.rbind.io/blog/deploying-xaringan-slides/</guid>
+      <guid>https://suzannebellue.github.io/blog/deploying-xaringan-slides/</guid>
       <description>A ten-step workflow for creating an HTML xaringan slide deck and deploying it to the web using GitHub Pages</description>
     </item>
     

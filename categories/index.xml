@@ -2,71 +2,71 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Suzanne Bellue</title>
-    <link>https://silvia.rbind.io/categories/</link>
+    <link>https://suzannebellue.github.io/categories/</link>
     <description>Recent content in Categories on Suzanne Bellue</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 02 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://silvia.rbind.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 02 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://suzannebellue.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Education</title>
-      <link>https://silvia.rbind.io/categories/education/</link>
+      <link>https://suzannebellue.github.io/categories/education/</link>
       <pubDate>Wed, 02 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://silvia.rbind.io/categories/education/</guid>
+      <guid>https://suzannebellue.github.io/categories/education/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Website</title>
-      <link>https://silvia.rbind.io/categories/website/</link>
+      <link>https://suzannebellue.github.io/categories/website/</link>
       <pubDate>Wed, 02 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://silvia.rbind.io/categories/website/</guid>
+      <guid>https://suzannebellue.github.io/categories/website/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R</title>
-      <link>https://silvia.rbind.io/categories/r/</link>
+      <link>https://suzannebellue.github.io/categories/r/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://silvia.rbind.io/categories/r/</guid>
+      <guid>https://suzannebellue.github.io/categories/r/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tutorial</title>
-      <link>https://silvia.rbind.io/categories/tutorial/</link>
+      <link>https://suzannebellue.github.io/categories/tutorial/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://silvia.rbind.io/categories/tutorial/</guid>
+      <guid>https://suzannebellue.github.io/categories/tutorial/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Package</title>
-      <link>https://silvia.rbind.io/categories/package/</link>
+      <link>https://suzannebellue.github.io/categories/package/</link>
       <pubDate>Tue, 04 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://silvia.rbind.io/categories/package/</guid>
+      <guid>https://suzannebellue.github.io/categories/package/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Castellano</title>
-      <link>https://silvia.rbind.io/categories/castellano/</link>
+      <link>https://suzannebellue.github.io/categories/castellano/</link>
       <pubDate>Mon, 28 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://silvia.rbind.io/categories/castellano/</guid>
+      <guid>https://suzannebellue.github.io/categories/castellano/</guid>
       <description></description>
     </item>
     
     <item>
       <title>tidyverse</title>
-      <link>https://silvia.rbind.io/categories/tidyverse/</link>
+      <link>https://suzannebellue.github.io/categories/tidyverse/</link>
       <pubDate>Wed, 07 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://silvia.rbind.io/categories/tidyverse/</guid>
+      <guid>https://suzannebellue.github.io/categories/tidyverse/</guid>
       <description></description>
     </item>
     

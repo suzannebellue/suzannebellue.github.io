@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Work in progress on Suzanne Bellue</title>
-    <link>https://silvia.rbind.io/publication/</link>
+    <link>https://suzannebellue.github.io/publication/</link>
     <description>Recent content in Work in progress on Suzanne Bellue</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 30 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://silvia.rbind.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 30 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://suzannebellue.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Social Mobility with Subjective Beliefs: The Effects of Neighborhoods on Investment Choices</title>
-      <link>https://silvia.rbind.io/publication/smm-individual-neighborhood/</link>
+      <link>https://suzannebellue.github.io/publication/smm-individual-neighborhood/</link>
       <pubDate>Wed, 30 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://silvia.rbind.io/publication/smm-individual-neighborhood/</guid>
+      <guid>https://suzannebellue.github.io/publication/smm-individual-neighborhood/</guid>
       <description>Neighborhoods in the US shape future economics outcomes of children who grow up in them, and their endogenous demographic composition define who are the role models for those children. I develop and estimate a structural spatial equilibrium model of parental investments in which residential choices exogenously impact the human capital formation of children, and endogenously shape their expectations about the returns to educational investments. Under the assumption that agents are unable to perfectly estimate the bias that spatial sorting introduces, this model generates persistent misbeliefs about returns to educational investment that are correlated with earnings.</description>
     </item>
     
