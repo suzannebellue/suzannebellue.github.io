@@ -1,34 +1,109 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications | Suzanne Bellue</title>
-    <link>https://suzannebellue.github.io/publication/</link>
-      <atom:link href="https://suzannebellue.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
-    <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2013 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://suzannebellue.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
-      <title>Publications</title>
-      <link>https://suzannebellue.github.io/publication/</link>
-    </image>
+    <title>Publications on Suzanne Bellue</title>
+    <link>https://silvia.rbind.io/publication/</link>
+    <description>Recent content in Publications on Suzanne Bellue</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 11 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://silvia.rbind.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Bayesian Hierarchical Modeling Framework for Geospatial Analysis of Adverse Pregnancy Outcomes</title>
+      <link>https://silvia.rbind.io/publication/geospatial-analysis-pregnancy-outcomes/</link>
+      <pubDate>Tue, 11 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://silvia.rbind.io/publication/geospatial-analysis-pregnancy-outcomes/</guid>
+      <description>Study describing a Bayesian hierarchichal modeling framework used to explore which neighborhood-level factors and patient-level features were most informative for preterm birth and stillbirth pregnancy outcomes.</description>
+    </item>
     
     <item>
-      <title>An example conference paper</title>
-      <link>https://suzannebellue.github.io/publication/example/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://suzannebellue.github.io/publication/example/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <title>Individual-Level and Neighborhood-Level Risk Factors for Severe Maternal Morbidity</title>
+      <link>https://silvia.rbind.io/publication/smm-individual-neighborhood/</link>
+      <pubDate>Thu, 08 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://silvia.rbind.io/publication/smm-individual-neighborhood/</guid>
+      <description>Study showing that neighborhood-level risk factors are independent predictors of Severe Maternal Morbidity, providing further evidence that racial disparities in maternal outcomes are symptoms of historical and structural racism.</description>
+    </item>
+    
+    <item>
+      <title>Not All C-sections Are the Same: Investigating Emergency vs. Elective C-section Deliveries as an Adverse Pregnancy Outcome</title>
+      <link>https://silvia.rbind.io/publication/csections-emergency-admissions/</link>
+      <pubDate>Thu, 10 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://silvia.rbind.io/publication/csections-emergency-admissions/</guid>
+      <description>Publication and poster accepted for the 2021 Pacific Biocomputing Symposium. This study utilizes Electronic Health Record (EHR) data to assess the impact of pregnancy-specific maternal morbidity and patient-specific characteristics on experiencing an emergency admission at the time of delivery and its relationship to Cesarean section (C-section) deliveries</description>
+    </item>
+    
+    <item>
+      <title>Development and Evaluation of MADDIE: Method to Acquire Delivery Date Information from Electronic Health Records</title>
+      <link>https://silvia.rbind.io/publication/maddie-ehr-delivery-episode-algorithm/</link>
+      <pubDate>Tue, 17 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://silvia.rbind.io/publication/maddie-ehr-delivery-episode-algorithm/</guid>
+      <description>An R algorithm designed to extract delivery episode details from structured Electronic Health Record data.</description>
+    </item>
+    
+    <item>
+      <title>Is Hydroxychloroquine Safe During Pregnancy? Observations from Penn Medicine</title>
+      <link>https://silvia.rbind.io/publication/preprint-hydroxychloroquine-pregnancy/</link>
+      <pubDate>Wed, 06 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://silvia.rbind.io/publication/preprint-hydroxychloroquine-pregnancy/</guid>
+      <description>Preprint as a contribution from a rapid response exploration of hydroxychloroquine effects on pregnancy-related outcomes.</description>
+    </item>
+    
+    <item>
+      <title>Visualizing the Inside Journey of Recovery from Opioid Use Disorder</title>
+      <link>https://silvia.rbind.io/publication/data-hack-opioid/</link>
+      <pubDate>Wed, 25 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://silvia.rbind.io/publication/data-hack-opioid/</guid>
+      <description>Code for Philly 2020 Opioid Data Hackathon project to better understand recovery from opioid use disorder.</description>
+    </item>
+    
+    <item>
+      <title>A Systematic Literature Review of Factors Affecting the Timing of Menarche: The Potential for Climate Change to Impact Women’s Health</title>
+      <link>https://silvia.rbind.io/publication/climate-change-menarche/</link>
+      <pubDate>Thu, 05 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://silvia.rbind.io/publication/climate-change-menarche/</guid>
+      <description>Review paper highlighting how climate change could impact the timing of first menstruation and increase the burden of disease.</description>
+    </item>
+    
+    <item>
+      <title>Investigating Pregnancy-Related Health Outcomes Among Patients with Sickle Cell Disease and Linking with Health Disparities</title>
+      <link>https://silvia.rbind.io/publication/amia-annual-symposium/</link>
+      <pubDate>Wed, 20 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://silvia.rbind.io/publication/amia-annual-symposium/</guid>
+      <description>Poster presented at the 2019 American Medical Informatics Association Annual Symposium held November 16th-20th in Washington D.C.</description>
+    </item>
+    
+    <item>
+      <title>Substrate Strain Mitigates Effects of β-Aminopropionitrile-Induced Reduction in Enzymatic Crosslinking</title>
+      <link>https://silvia.rbind.io/publication/bapn-substrate-strain/</link>
+      <pubDate>Tue, 03 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://silvia.rbind.io/publication/bapn-substrate-strain/</guid>
+      <description>Research highlighting how the effects of BAPN on type I collagen, produced by osteoblasts, were mitigated by mechanical loading.</description>
+    </item>
+    
+    <item>
+      <title>Characterization of Type I Collagen and Osteoblast Response to Mechanical Loading</title>
+      <link>https://silvia.rbind.io/publication/dissertation/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://silvia.rbind.io/publication/dissertation/</guid>
+      <description>Dissertation completed as part of the requirements for a doctorate degree in Biomedical Engineering.</description>
+    </item>
+    
+    <item>
+      <title>β-Aminopropionitrile-Induced Reduction in Enzymatic Crosslinking Causes In Vitro Changes in Collagen Morphology and Molecular Composition</title>
+      <link>https://silvia.rbind.io/publication/bapn-morphology/</link>
+      <pubDate>Sun, 06 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://silvia.rbind.io/publication/bapn-morphology/</guid>
+      <description>Publication highlighting how a reduction in enzymatic crosslinking alters type I collagen morphology through an increase in D-spacing.</description>
     </item>
     
   </channel>

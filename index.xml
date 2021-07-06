@@ -1,204 +1,330 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Suzanne Bellue</title>
-    <link>https://suzannebellue.github.io/</link>
-      <atom:link href="https://suzannebellue.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <description>Suzanne Bellue</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://suzannebellue.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
-      <title>Suzanne Bellue</title>
-      <link>https://suzannebellue.github.io/</link>
-    </image>
-    
+    <link>https://silvia.rbind.io/</link>
+    <description>Recent content on Suzanne Bellue</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 02 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://silvia.rbind.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Example Talk</title>
-      <link>https://suzannebellue.github.io/talk/example-talk/</link>
-      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>https://suzannebellue.github.io/talk/example-talk/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Wowchemy&amp;rsquo;s &lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Further event details, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;page elements&lt;/a&gt; such as image galleries, can be added to the body of this page.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Slides</title>
-      <link>https://suzannebellue.github.io/slides/example/</link>
-      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://suzannebellue.github.io/slides/example/</guid>
-      <description>&lt;h1 id=&#34;create-slides-in-markdown-with-wowchemy&#34;&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
-&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://owchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Efficiently write slides in Markdown&lt;/li&gt;
-&lt;li&gt;3-in-1: Create, Present, and Publish your slides&lt;/li&gt;
-&lt;li&gt;Supports speaker notes&lt;/li&gt;
-&lt;li&gt;Mobile friendly slides&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;controls&#34;&gt;Controls&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Next: &lt;code&gt;Right Arrow&lt;/code&gt; or &lt;code&gt;Space&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Previous: &lt;code&gt;Left Arrow&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Start: &lt;code&gt;Home&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Finish: &lt;code&gt;End&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Overview: &lt;code&gt;Esc&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Speaker notes: &lt;code&gt;S&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Fullscreen: &lt;code&gt;F&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Zoom: &lt;code&gt;Alt + Click&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/hakimel/reveal.js#pdf-export&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF Export&lt;/a&gt;: &lt;code&gt;E&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;code-highlighting&#34;&gt;Code Highlighting&lt;/h2&gt;
-&lt;p&gt;Inline code: &lt;code&gt;variable&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;Code block:&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;porridge = &amp;quot;blueberry&amp;quot;
-if porridge == &amp;quot;blueberry&amp;quot;:
-    print(&amp;quot;Eating...&amp;quot;)
-&lt;/code&gt;&lt;/pre&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;math&#34;&gt;Math&lt;/h2&gt;
-&lt;p&gt;In-line math: $x + y = z$&lt;/p&gt;
-&lt;p&gt;Block math:&lt;/p&gt;
-&lt;p&gt;$$
-f\left( x \right) = ;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
-$$&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;fragments&#34;&gt;Fragments&lt;/h2&gt;
-&lt;p&gt;Make content appear incrementally&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;{{% fragment %}} One {{% /fragment %}}
-{{% fragment %}} **Two** {{% /fragment %}}
-{{% fragment %}} Three {{% /fragment %}}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
-&lt;p&gt;&lt;span class=&#34;fragment &#34; &gt;
-One
-&lt;/span&gt;
-&lt;span class=&#34;fragment &#34; &gt;
-&lt;strong&gt;Two&lt;/strong&gt;
-&lt;/span&gt;
-&lt;span class=&#34;fragment &#34; &gt;
-Three
-&lt;/span&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;code&gt;class&lt;/code&gt;: use a custom style (requires definition in custom CSS)&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;weight&lt;/code&gt;: sets the order in which a fragment appears&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;speaker-notes&#34;&gt;Speaker Notes&lt;/h2&gt;
-&lt;p&gt;Add speaker notes to your presentation&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{% speaker_note %}}
-- Only the speaker can read these notes
-- Press `S` key to view
-{{% /speaker_note %}}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;Press the &lt;code&gt;S&lt;/code&gt; key to view the speaker notes!&lt;/p&gt;
-&lt;aside class=&#34;notes&#34;&gt;
-  &lt;ul&gt;
-&lt;li&gt;Only the speaker can read these notes&lt;/li&gt;
-&lt;li&gt;Press &lt;code&gt;S&lt;/code&gt; key to view&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;/aside&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;black: Black background, white text, blue links (default)&lt;/li&gt;
-&lt;li&gt;white: White background, black text, blue links&lt;/li&gt;
-&lt;li&gt;league: Gray background, white text, blue links&lt;/li&gt;
-&lt;li&gt;beige: Beige background, dark text, brown links&lt;/li&gt;
-&lt;li&gt;sky: Blue background, thin dark text, blue links&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;ul&gt;
-&lt;li&gt;night: Black background, thick white text, orange links&lt;/li&gt;
-&lt;li&gt;serif: Cappuccino background, gray text, brown links&lt;/li&gt;
-&lt;li&gt;simple: White background, black text, blue links&lt;/li&gt;
-&lt;li&gt;solarized: Cream-colored background, dark green text, blue links&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-
-&lt;section data-noprocess data-shortcode-slide
-  
+      <title>WAVE Audit No. 1</title>
+      <link>https://silvia.rbind.io/blog/2021-a11y-website/01-wave-audit-1/</link>
+      <pubDate>Wed, 02 Jun 2021 00:00:00 +0000</pubDate>
       
-      data-background-image=&#34;/media/boards.jpg&#34;
-  &gt;
-
-&lt;h2 id=&#34;custom-slide&#34;&gt;Custom Slide&lt;/h2&gt;
-&lt;p&gt;Customize the slide style and background&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{&amp;lt; slide background-image=&amp;quot;/media/boards.jpg&amp;quot; &amp;gt;}}
-{{&amp;lt; slide background-color=&amp;quot;#0000FF&amp;quot; &amp;gt;}}
-{{&amp;lt; slide class=&amp;quot;my-style&amp;quot; &amp;gt;}}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;custom-css-example&#34;&gt;Custom CSS Example&lt;/h2&gt;
-&lt;p&gt;Let&amp;rsquo;s make headers navy colored.&lt;/p&gt;
-&lt;p&gt;Create &lt;code&gt;assets/css/reveal_custom.css&lt;/code&gt; with:&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-css&#34;&gt;.reveal section h1,
-.reveal section h2,
-.reveal section h3 {
-  color: navy;
-}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;hr&gt;
-&lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
-&lt;p&gt;&lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/discussions&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
-</description>
+      <guid>https://silvia.rbind.io/blog/2021-a11y-website/01-wave-audit-1/</guid>
+      <description>.page-main img { box-shadow: 0px 0px 2px 2px rgba( 0, 0, 0, 0.2 ); #/* ease | ease-in | ease-out | linear */ transition: transform ease-in-out 0.6s; } .page-main img:hover { transform: scale(1.4); }   Did you know that 97.4% of home pages have web accessibility failures??? 😱
+ This finding is one of many from an accessibility analysis that non-profit WebAIM (Web Accessibility in Mind) conducts annually on home pages of the top one million websites.</description>
     </item>
     
     <item>
-      <title>Example Project</title>
-      <link>https://suzannebellue.github.io/project/example/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://suzannebellue.github.io/project/example/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
-</description>
+      <title>Accessibility commitment</title>
+      <link>https://silvia.rbind.io/accessibility/</link>
+      <pubDate>Tue, 01 Jun 2021 10:00:00 +0000</pubDate>
+      
+      <guid>https://silvia.rbind.io/accessibility/</guid>
+      <description>Travel back to the home page, about page, or a11y series of blog posts.
+Feedback     I welcome any feedback on the accessibility of my site and/or the educational materials I create. Please let me know if you encounter any accessibility barriers by using my contact form or mentioning me on Twitter @spcanelon and I&amp;rsquo;ll do my best to respond promptly.
+Thank you for visiting my site and for taking the time to read this page</description>
     </item>
     
     <item>
-      <title>An example conference paper</title>
-      <link>https://suzannebellue.github.io/publication/example/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://suzannebellue.github.io/publication/example/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <title>LICENSE: CC-BY-SA</title>
+      <link>https://silvia.rbind.io/license/</link>
+      <pubDate>Tue, 01 Jun 2021 09:00:00 +0000</pubDate>
+      
+      <guid>https://silvia.rbind.io/license/</guid>
+      <description>My blog posts are released under a Creative Commons Attribution-ShareAlike 4.0 International License.
+   </description>
     </item>
     
     <item>
-      <title></title>
-      <link>https://suzannebellue.github.io/admin/config.yml</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://suzannebellue.github.io/admin/config.yml</guid>
-      <description></description>
+      <title>Hello Hugo Apéro: Converting a Blogdown Site from Hugo Academic</title>
+      <link>https://silvia.rbind.io/blog/hello-hugo-apero/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://silvia.rbind.io/blog/hello-hugo-apero/</guid>
+      <description>A tutorial on how to take your personal Hugo Academic/Wowchemy website and convert it to the Hugo Apéro theme</description>
+    </item>
+    
+    <item>
+      <title>A Bayesian Hierarchical Modeling Framework for Geospatial Analysis of Adverse Pregnancy Outcomes</title>
+      <link>https://silvia.rbind.io/publication/geospatial-analysis-pregnancy-outcomes/</link>
+      <pubDate>Tue, 11 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://silvia.rbind.io/publication/geospatial-analysis-pregnancy-outcomes/</guid>
+      <description>Study describing a Bayesian hierarchichal modeling framework used to explore which neighborhood-level factors and patient-level features were most informative for preterm birth and stillbirth pregnancy outcomes.</description>
+    </item>
+    
+    <item>
+      <title>Revealing Room for Improvement in Accessibility within a Social Media Data Visualization Learning Community</title>
+      <link>https://silvia.rbind.io/talk/2021-05-04-data-viz-accessibility/</link>
+      <pubDate>Tue, 04 May 2021 10:20:00 +0000</pubDate>
+      
+      <guid>https://silvia.rbind.io/talk/2021-05-04-data-viz-accessibility/</guid>
+      <description>Data visualization accessibility talk to share what we found after scraping alternative (alt) text from data viz shared on Twitter as part of the #TidyTuesday social project.</description>
+    </item>
+    
+    <item>
+      <title>TidyTuesdayAltText</title>
+      <link>https://silvia.rbind.io/project/tidy-tuesday-alt-text/</link>
+      <pubDate>Tue, 04 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://silvia.rbind.io/project/tidy-tuesday-alt-text/</guid>
+      <description>About the data      The original data were collected and made available by Tom Mock ( @thomas_mock) using {rtweet}. These data are available in the TidyTuesday repository.
+These tweets were processed and scraped for alternative text by Silvia Canelón ( @spcanelon)
+ Data were filtered to remove tweets without attached media (e.g. images) Data were supplemented with reply tweets collected using {rtweet}. This was done to identify whether the original tweet or a reply tweet contained an external link (e.</description>
+    </item>
+    
+    <item>
+      <title>Individual-Level and Neighborhood-Level Risk Factors for Severe Maternal Morbidity</title>
+      <link>https://silvia.rbind.io/publication/smm-individual-neighborhood/</link>
+      <pubDate>Thu, 08 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://silvia.rbind.io/publication/smm-individual-neighborhood/</guid>
+      <description>Study showing that neighborhood-level risk factors are independent predictors of Severe Maternal Morbidity, providing further evidence that racial disparities in maternal outcomes are symptoms of historical and structural racism.</description>
+    </item>
+    
+    <item>
+      <title>The Impact of Sickle Cell Status on Adverse Delivery Outcomes Using Electronic Health Record Data</title>
+      <link>https://silvia.rbind.io/talk/2021-03-22-amia-informatics-summit/</link>
+      <pubDate>Mon, 22 Mar 2021 11:30:00 +0000</pubDate>
+      
+      <guid>https://silvia.rbind.io/talk/2021-03-22-amia-informatics-summit/</guid>
+      <description>Applied Clinical Research Informatics: Solving Real World Problems. Oral Presentations S17: March 23, 2021 11:30am-1pm ET</description>
+    </item>
+    
+    <item>
+      <title>Writing Presentations in R</title>
+      <link>https://silvia.rbind.io/talk/2021-03-16-xaringan-deploy-demo/</link>
+      <pubDate>Tue, 16 Mar 2021 17:30:00 +0000</pubDate>
+      
+      <guid>https://silvia.rbind.io/talk/2021-03-16-xaringan-deploy-demo/</guid>
+      <description>R-Ladies Seattle package demonstrations showing how to make beautiful slides with xaringan and how to deploy them.</description>
+    </item>
+    
+    <item>
+      <title>Deploying xaringan Slides: A Ten-Step GitHub Pages Workflow</title>
+      <link>https://silvia.rbind.io/blog/deploying-xaringan-slides/</link>
+      <pubDate>Tue, 16 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://silvia.rbind.io/blog/deploying-xaringan-slides/</guid>
+      <description>A ten-step workflow for creating an HTML xaringan slide deck and deploying it to the web using GitHub Pages</description>
+    </item>
+    
+    <item>
+      <title>From Learn-R to Teach-R: An Expert Panel on Effective R Instruction</title>
+      <link>https://silvia.rbind.io/talk/2021-02-18-r-teaching-panel/</link>
+      <pubDate>Thu, 18 Feb 2021 18:00:00 +0000</pubDate>
+      
+      <guid>https://silvia.rbind.io/talk/2021-02-18-r-teaching-panel/</guid>
+      <description>An R-Ladies Philly panel and discussion event on R instruction and education.</description>
+    </item>
+    
+    <item>
+      <title>useR!2021 Cost Conversion Tool</title>
+      <link>https://silvia.rbind.io/project/user-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://silvia.rbind.io/project/user-2021/</guid>
+      <description>I created a cost conversion tool used for the useR!2021 Conference to adapt conference and sponsorship fees according to the country of residence. The cost conversion was done according to Gross Domestic Product (GDP) adjusted by Purchasing Power Parity (PPP) provided by the World Bank. We wanted conference attendees and sponsors from different parts of the world to be able to participate in useR! and believed that this is a fair approach.</description>
+    </item>
+    
+    <item>
+      <title>Enseñar Tecnología en Comunidad</title>
+      <link>https://silvia.rbind.io/project/teaching-tech-together-es/</link>
+      <pubDate>Mon, 28 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://silvia.rbind.io/project/teaching-tech-together-es/</guid>
+      <description>Enseñar Tecnología en Comunidad. Cómo crear lecciones que funcionen y construir una comunidad docente alrededor      Este proyecto llevó acabo la traducción al castellano del libro Teaching Tech Together escrito por Greg Wilson. El proyecto fue coordinado por mi amiga y colega Yanina Bellini Saibene.
+Yo participé como traductora del capítulo &amp;ldquo;Motivation and Demotivation&amp;rdquo; y revisora del capítulo &amp;ldquo;Expertise and Memory.&amp;rdquo;
+ Septiembre de 2020 – Diciembre de 2020.</description>
+    </item>
+    
+    <item>
+      <title>Introducción al Paquete xaringan</title>
+      <link>https://silvia.rbind.io/talk/2020-12-17-introduccion-xaringan/</link>
+      <pubDate>Thu, 17 Dec 2020 18:00:00 +0000</pubDate>
+      
+      <guid>https://silvia.rbind.io/talk/2020-12-17-introduccion-xaringan/</guid>
+      <description>Taller del paquete xaringan para presentaciones,&lt;br&gt;creado para R-Ladies Xalapa</description>
+    </item>
+    
+    <item>
+      <title>Not All C-sections Are the Same: Investigating Emergency vs. Elective C-section Deliveries as an Adverse Pregnancy Outcome</title>
+      <link>https://silvia.rbind.io/publication/csections-emergency-admissions/</link>
+      <pubDate>Thu, 10 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://silvia.rbind.io/publication/csections-emergency-admissions/</guid>
+      <description>Publication and poster accepted for the 2021 Pacific Biocomputing Symposium. This study utilizes Electronic Health Record (EHR) data to assess the impact of pregnancy-specific maternal morbidity and patient-specific characteristics on experiencing an emergency admission at the time of delivery and its relationship to Cesarean section (C-section) deliveries</description>
+    </item>
+    
+    <item>
+      <title>nhsr CSS Theme for xaringan</title>
+      <link>https://silvia.rbind.io/project/xaringan/</link>
+      <pubDate>Wed, 09 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://silvia.rbind.io/project/xaringan/</guid>
+      <description>Theme      In preparation for a xaringan workshop I created for the NHS-R 2020 Conference, I designed a custom CSS theme with input from the NHS-R Community that followed the NHS identity guidelines. This theme was also contributed to the nhsrtheme package developed by Tom Jemmett.</description>
+    </item>
+    
+    <item>
+      <title>Development and Evaluation of MADDIE: Method to Acquire Delivery Date Information from Electronic Health Records</title>
+      <link>https://silvia.rbind.io/publication/maddie-ehr-delivery-episode-algorithm/</link>
+      <pubDate>Tue, 17 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://silvia.rbind.io/publication/maddie-ehr-delivery-episode-algorithm/</guid>
+      <description>An R algorithm designed to extract delivery episode details from structured Electronic Health Record data.</description>
+    </item>
+    
+    <item>
+      <title>Sharing Your Work with xaringan: The Basics and Beyond</title>
+      <link>https://silvia.rbind.io/talk/2020-11-03-xaringan-basics-and-beyond/</link>
+      <pubDate>Tue, 03 Nov 2020 15:00:00 +0000</pubDate>
+      
+      <guid>https://silvia.rbind.io/talk/2020-11-03-xaringan-basics-and-beyond/</guid>
+      <description>An introduction to xaringan for presentations, created for the 
+&lt;a href=&#34;https://nhsrcommunity.com/about/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NHS-R Community&lt;/a&gt; 
+&lt;a href=&#34;https://nhsrcommunity.com/nhsr-conference-2020/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;2020 Virtual Conference&lt;/a&gt;</description>
+    </item>
+    
+    <item>
+      <title>Sharing Your Work with xaringan</title>
+      <link>https://silvia.rbind.io/project/xaringan-nhs-r/</link>
+      <pubDate>Tue, 03 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://silvia.rbind.io/project/xaringan-nhs-r/</guid>
+      <description>Workshop description     This four-hour hands-on workshop is a gentle introduction to the xaringan package as a tool to create impressive presentation slides that can be deployed to the web for easy sharing.
+Day 1 covers the nuts and bolts of creating presentation slides using xaringan and deploying them in HTML format for easy sharing with others.
+Day 2 covers how to take your slides to the next level with the xaringanExtra package and how to customize slides with CSS.</description>
+    </item>
+    
+    <item>
+      <title>xaringan CSS Theme for nhsrtheme</title>
+      <link>https://silvia.rbind.io/project/nhsrtheme/</link>
+      <pubDate>Thu, 29 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://silvia.rbind.io/project/nhsrtheme/</guid>
+      <description>Theme      In preparation for a xaringan workshop I created for the NHS-R 2020 Conference, I designed a custom CSS theme with input from the NHS-R Community that followed the NHS identity guidelines. This theme was also contributed to the xaringan package developed by Yihui Xie.</description>
+    </item>
+    
+    <item>
+      <title>Becoming certified as an RStudio Tidyverse Instructor</title>
+      <link>https://silvia.rbind.io/blog/rstudio-instructor-certification-tidyverse/</link>
+      <pubDate>Wed, 07 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://silvia.rbind.io/blog/rstudio-instructor-certification-tidyverse/</guid>
+      <description>An overview of the RStudio Instructor certification process and collection of resources to support anyone on their certification journey.</description>
+    </item>
+    
+    <item>
+      <title>An Antarctic Tour of the Tidyverse</title>
+      <link>https://silvia.rbind.io/talk/2020-08-31-tour-of-the-tidyverse/</link>
+      <pubDate>Mon, 31 Aug 2020 17:40:00 +0000</pubDate>
+      
+      <guid>https://silvia.rbind.io/talk/2020-08-31-tour-of-the-tidyverse/</guid>
+      <description>An introductory tidyverse tutorial created and presented for 
+&lt;a href=&#34;https://rladieschicago.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;R-Ladies Chicago&lt;/a&gt;</description>
+    </item>
+    
+    <item>
+      <title>Customizing Hugo Academic&#39;s Dark Mode with Help from Atom</title>
+      <link>https://silvia.rbind.io/blog/dark-theme-custom-with-atom/</link>
+      <pubDate>Tue, 16 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://silvia.rbind.io/blog/dark-theme-custom-with-atom/</guid>
+      <description>Tutorial on how to customize the dark mode in Hugo&amp;rsquo;s Academic theme with help from the Atom text editor package Pigments.</description>
+    </item>
+    
+    <item>
+      <title>Migrating from Trello to Airtable: Working with JSON Data in R</title>
+      <link>https://silvia.rbind.io/blog/trello-to-airtable/</link>
+      <pubDate>Tue, 12 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://silvia.rbind.io/blog/trello-to-airtable/</guid>
+      <description>Tutorial on how to migrate your current Trello board to an Airtable base from start to finish.</description>
+    </item>
+    
+    <item>
+      <title>Is Hydroxychloroquine Safe During Pregnancy? Observations from Penn Medicine</title>
+      <link>https://silvia.rbind.io/publication/preprint-hydroxychloroquine-pregnancy/</link>
+      <pubDate>Wed, 06 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://silvia.rbind.io/publication/preprint-hydroxychloroquine-pregnancy/</guid>
+      <description>Preprint as a contribution from a rapid response exploration of hydroxychloroquine effects on pregnancy-related outcomes.</description>
+    </item>
+    
+    <item>
+      <title>Visualizing the Inside Journey of Recovery from Opioid Use Disorder</title>
+      <link>https://silvia.rbind.io/publication/data-hack-opioid/</link>
+      <pubDate>Wed, 25 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://silvia.rbind.io/publication/data-hack-opioid/</guid>
+      <description>Code for Philly 2020 Opioid Data Hackathon project to better understand recovery from opioid use disorder.</description>
+    </item>
+    
+    <item>
+      <title>A Systematic Literature Review of Factors Affecting the Timing of Menarche: The Potential for Climate Change to Impact Women’s Health</title>
+      <link>https://silvia.rbind.io/publication/climate-change-menarche/</link>
+      <pubDate>Thu, 05 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://silvia.rbind.io/publication/climate-change-menarche/</guid>
+      <description>Review paper highlighting how climate change could impact the timing of first menstruation and increase the burden of disease.</description>
+    </item>
+    
+    <item>
+      <title>Investigating Pregnancy-Related Health Outcomes Among Patients with Sickle Cell Disease and Linking with Health Disparities</title>
+      <link>https://silvia.rbind.io/publication/amia-annual-symposium/</link>
+      <pubDate>Wed, 20 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://silvia.rbind.io/publication/amia-annual-symposium/</guid>
+      <description>Poster presented at the 2019 American Medical Informatics Association Annual Symposium held November 16th-20th in Washington D.C.</description>
+    </item>
+    
+    <item>
+      <title>Substrate Strain Mitigates Effects of β-Aminopropionitrile-Induced Reduction in Enzymatic Crosslinking</title>
+      <link>https://silvia.rbind.io/publication/bapn-substrate-strain/</link>
+      <pubDate>Tue, 03 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://silvia.rbind.io/publication/bapn-substrate-strain/</guid>
+      <description>Research highlighting how the effects of BAPN on type I collagen, produced by osteoblasts, were mitigated by mechanical loading.</description>
+    </item>
+    
+    <item>
+      <title>Philly Center City Sips 2019: An Interactive Map</title>
+      <link>https://silvia.rbind.io/blog/ccd-sips/</link>
+      <pubDate>Sun, 04 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://silvia.rbind.io/blog/ccd-sips/</guid>
+      <description>An interactive map showing restaurants participating in Philly’s Center City District Sips 2019.</description>
+    </item>
+    
+    <item>
+      <title>Send me a note</title>
+      <link>https://silvia.rbind.io/contact/</link>
+      <pubDate>Mon, 25 Feb 2019 13:38:41 -0600</pubDate>
+      
+      <guid>https://silvia.rbind.io/contact/</guid>
+      <description>** Contact page don&amp;rsquo;t contain a body, just the front matter above. See form.html in the layouts folder.
+Formspree requires a (free) account and new form to be set up. The link is made on the final published url in the field: Restrict to Domain. It is possible to register up to 2 emails free and you can select which one you want the forms to go to within Formspree in the Settings tab.</description>
+    </item>
+    
+    <item>
+      <title>Characterization of Type I Collagen and Osteoblast Response to Mechanical Loading</title>
+      <link>https://silvia.rbind.io/publication/dissertation/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://silvia.rbind.io/publication/dissertation/</guid>
+      <description>Dissertation completed as part of the requirements for a doctorate degree in Biomedical Engineering.</description>
+    </item>
+    
+    <item>
+      <title>β-Aminopropionitrile-Induced Reduction in Enzymatic Crosslinking Causes In Vitro Changes in Collagen Morphology and Molecular Composition</title>
+      <link>https://silvia.rbind.io/publication/bapn-morphology/</link>
+      <pubDate>Sun, 06 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://silvia.rbind.io/publication/bapn-morphology/</guid>
+      <description>Publication highlighting how a reduction in enzymatic crosslinking alters type I collagen morphology through an increase in D-spacing.</description>
     </item>
     
   </channel>
