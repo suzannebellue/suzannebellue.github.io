@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Education on Suzanne Bellue</title>
+    <title>education on Suzanne Bellue</title>
     <link>https://suzannebellue.github.io/tags/education/</link>
-    <description>Recent content in Education on Suzanne Bellue</description>
+    <description>Recent content in education on Suzanne Bellue</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Wed, 30 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://suzannebellue.github.io/tags/education/index.xml" rel="self" type="application/rss+xml" />
@@ -14,17 +14,6 @@
       
       <guid>https://suzannebellue.github.io/publication/smm-tracking/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Enseñar Tecnología en Comunidad</title>
-      <link>https://suzannebellue.github.io/project/teaching-tech-together-es/</link>
-      <pubDate>Mon, 28 Dec 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://suzannebellue.github.io/project/teaching-tech-together-es/</guid>
-      <description>Enseñar Tecnología en Comunidad. Cómo crear lecciones que funcionen y construir una comunidad docente alrededor      Este proyecto llevó acabo la traducción al castellano del libro Teaching Tech Together escrito por Greg Wilson. El proyecto fue coordinado por mi amiga y colega Yanina Bellini Saibene.
-Yo participé como traductora del capítulo &amp;ldquo;Motivation and Demotivation&amp;rdquo; y revisora del capítulo &amp;ldquo;Expertise and Memory.&amp;rdquo;
- Septiembre de 2020 – Diciembre de 2020.</description>
     </item>
     
   </channel>
