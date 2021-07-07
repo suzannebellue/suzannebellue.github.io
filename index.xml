@@ -18,12 +18,30 @@
     </item>
     
     <item>
+      <title>Employment Transitions: Mechanisms For Gender Earnings Gap</title>
+      <link>https://suzannebellue.github.io/publication/smm-gender/</link>
+      <pubDate>Wed, 30 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://suzannebellue.github.io/publication/smm-gender/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Macroeconomic Consequences of Early Education Tracking</title>
+      <link>https://suzannebellue.github.io/publication/smm-tracking/</link>
+      <pubDate>Wed, 30 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://suzannebellue.github.io/publication/smm-tracking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Social Mobility with Subjective Beliefs: The Effects of Neighborhoods on Investment Choices</title>
       <link>https://suzannebellue.github.io/publication/smm-individual-neighborhood/</link>
       <pubDate>Wed, 30 Jun 2021 00:00:00 +0000</pubDate>
       
       <guid>https://suzannebellue.github.io/publication/smm-individual-neighborhood/</guid>
-      <description>Neighborhoods in the US shape future economics outcomes of children who grow up in them, and their endogenous demographic composition define who are the role models for those children. I develop and estimate a structural spatial equilibrium model of parental investments in which residential choices exogenously impact the human capital formation of children, and endogenously shape their expectations about the returns to educational investments. Under the assumption that agents are unable to perfectly estimate the bias that spatial sorting introduces, this model generates persistent misbeliefs about returns to educational investment that are correlated with earnings.</description>
+      <description>Neighborhoods in the US shape future economics outcomes of children who grow up in them, and their endogenous demographic composition define who are the role models for those children. I develop and estimate a structural spatial equilibrium model of parental investments in which residential choices exogenously impact the human capital formation of children, and endogenously shape their expectations about the returns to educational investments.</description>
     </item>
     
     <item>
@@ -169,16 +187,6 @@ Day 2 covers how to take your slides to the next level with the xaringanExtra pa
       <guid>https://suzannebellue.github.io/contact/</guid>
       <description>** Contact page don&amp;rsquo;t contain a body, just the front matter above. See form.html in the layouts folder.
 Formspree requires a (free) account and new form to be set up. The link is made on the final published url in the field: Restrict to Domain. It is possible to register up to 2 emails free and you can select which one you want the forms to go to within Formspree in the Settings tab.</description>
-    </item>
-    
-    <item>
-      <title>Typography Styles &amp; Element Examples</title>
-      <link>https://suzannebellue.github.io/teaching/</link>
-      <pubDate>Mon, 18 Feb 2019 12:27:33 -0600</pubDate>
-      
-      <guid>https://suzannebellue.github.io/teaching/</guid>
-      <description>
- Teaching Assistant 2021: Demographic transition and development - STEG lecture - Pr. Michèle Tertilt 2017: Public Economics - Sciences Po Paris - Pr. Emeric Henry 2014: Macroeconomics - Pontificia Universidad Católica de Chile - Pr. Matías Tapia     Research Assistant 2019 - .: Research assistant of Pr. Michèle Tertilt - Mannheim University 2015 - 2018: J-PAL Europe - Paris School of Economics 2015: J-PAL LAC - Pontificia Universidad Católica de Chile   </description>
     </item>
     
   </channel>
