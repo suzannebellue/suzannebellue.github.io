@@ -1,22 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Suzanne Bellue</title>
-    <link>https://suzannebellue.github.io/</link>
-    <description>Recent content on Suzanne Bellue</description>
+    <title>Work in progress on Suzanne Bellue</title>
+    <link>https://suzannebellue.github.io/tags/work-in-progress/</link>
+    <description>Recent content in Work in progress on Suzanne Bellue</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 03 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://suzannebellue.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>LICENSE: CC-BY-SA</title>
-      <link>https://suzannebellue.github.io/license/</link>
-      <pubDate>Tue, 01 Jun 2021 09:00:00 +0000</pubDate>
-      
-      <guid>https://suzannebellue.github.io/license/</guid>
-      <description>My blog posts are released under a Creative Commons Attribution-ShareAlike 4.0 International License.
-   </description>
-    </item>
-    
+    <lastBuildDate>Sat, 03 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://suzannebellue.github.io/tags/work-in-progress/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Social Mobility with Subjective Beliefs: The Effects of Neighborhoods on Investment Choices</title>
       <link>https://suzannebellue.github.io/publication/smm-individual-neighborhood/</link>
@@ -42,15 +32,6 @@
       
       <guid>https://suzannebellue.github.io/publication/smm-gender/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://suzannebellue.github.io/googlecd821d012a564e1e/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://suzannebellue.github.io/googlecd821d012a564e1e/</guid>
-      <description>google-site-verification: googlecd821d012a564e1e.</description>
     </item>
     
   </channel>
