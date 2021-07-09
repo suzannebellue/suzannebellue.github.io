@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Working paper on Suzanne Bellue</title>
+    <link>https://suzannebellue.github.io/tags/working-paper/</link>
+    <description>Recent content in Working paper on Suzanne Bellue</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 03 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://suzannebellue.github.io/tags/working-paper/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Teacher Training Program, Teacher Practices and Student Performance in Science: Evidence from a Randomized Study in French Primary Schools</title>
+      <link>https://suzannebellue.github.io/publication/teacher-training/</link>
+      <pubDate>Tue, 03 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://suzannebellue.github.io/publication/teacher-training/</guid>
+      <description>We conduct a large randomized study to assess the impact of an in-service teacher training program on inquiry-based teaching in sciences. The randomized study is conducted in several French primary schools, comprises randomly assigned 134 teachers and two cohorts of about 2500 students. In addition to standardized student test score, we collect information on teacher quantitative and qualitative practices and pedagogical knowledge. We find that the training program (80 hours over 2 years) significantly increase the weekly hours of science as well as the number of hands-on science experiments conducted in class.</description>
+    </item>
+    
+  </channel>
+</rss>
