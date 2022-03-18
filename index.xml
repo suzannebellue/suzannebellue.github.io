@@ -13,7 +13,7 @@
       <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
       
       <guid>https://suzannebellue.github.io/research/targeting/</guid>
-      <description></description>
+      <description>Targeting is a central challenge in the administration of anti-poverty programs: given available data, how does one rapidly identify the individuals and families with the greatest need? Here we show that non-traditional “big” data from satellites and mobile phone networks can improve the targeting of anti-poverty programs. Our analysis compares outcomes – including exclusion errors, total social welfare, and measures of fairness – under different targeting regimes. Relative to other feasible targeting options, the machine learning approach reduces errors of exclusion by 4-21%. These results highlight the potential for new data sources to contribute to humanitarian response efforts, particularly in crisis settings when traditional data are missing or out of date.</description>
     </item>
     
     <item>
@@ -27,12 +27,12 @@
     </item>
     
     <item>
-      <title>Social Mobility with Subjective Beliefs: The Effects of Neighborhoods on Investment Choices</title>
+      <title>Neighborhoods, Subjective Beliefs and Intergenerational Mobility</title>
       <link>https://suzannebellue.github.io/research/smm-individual-neighborhood/</link>
       <pubDate>Sat, 03 Apr 2021 00:00:00 +0000</pubDate>
       
       <guid>https://suzannebellue.github.io/research/smm-individual-neighborhood/</guid>
-      <description>Neighborhoods in the US shape future economics outcomes of children who grow up in them, and their endogenous demographic composition define who are the role models for those children. I develop and estimate a structural spatial equilibrium model of parental investments in which residential choices exogenously impact the human capital formation of children, and endogenously shape their expectations about the returns to educational investments.</description>
+      <description>Children&amp;rsquo;s neighborhoods in the US matter for their economic outcomes as adults, yet, low-income families tend to live in low-opportunity areas. I argue that local information transmission about returns to parental instement can explain this pattern. I develop and estimate a spatial equilibrium model of an average commuting zone with multiple neighborhoods, altruistic families and imperfect information about returns to parental investment. In this model, exogenous neighborhood quality affects children&amp;rsquo;s human capital, while endogenous neighborhood demographics shape their beliefs about the returns to parental investment.</description>
     </item>
     
     <item>
