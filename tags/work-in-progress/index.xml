@@ -6,23 +6,32 @@
     <description>Recent content in Work in progress on Suzanne Bellue</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 03 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://suzannebellue.github.io/tags/work-in-progress/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 28 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://suzannebellue.github.io/tags/work-in-progress/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Employment Transitions: Mechanisms For Gender Earnings Gap </title>
+      <link>https://suzannebellue.github.io/research/smm-gender/</link>
+      <pubDate>Fri, 28 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://suzannebellue.github.io/research/smm-gender/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Macroeconomic Consequences of Early Education Tracking</title>
       <link>https://suzannebellue.github.io/research/tracking/</link>
-      <pubDate>Tue, 03 Nov 2020 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 27 Oct 2022 00:00:00 +0000</pubDate>
       
       <guid>https://suzannebellue.github.io/research/tracking/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Employment Transitions: Mechanisms For Gender Earnings Gap </title>
-      <link>https://suzannebellue.github.io/research/smm-gender/</link>
-      <pubDate>Sat, 03 Oct 2020 00:00:00 +0000</pubDate>
+      <title>The Impact of Cash Transfers in Togo: Digital Data Do Not Recover Treatment Effects Found in Survey Data</title>
+      <link>https://suzannebellue.github.io/research/togoimpact/</link>
+      <pubDate>Wed, 26 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://suzannebellue.github.io/research/smm-gender/</guid>
-      <description></description>
+      <guid>https://suzannebellue.github.io/research/togoimpact/</guid>
+      <description>Digital cash transfer programs were setup rapidly during the COVID-19 pandemic and are increasingly common post-pandemic. In a randomized evaluation, we find that Togo&amp;rsquo;s Novissi program, which identified beneficiaries using poverty proxied by mobile phone data and provided US$13-15 in monthly mobile cash transfers, yielded modestly positive, statistically significant treatment effects on self-reported food security, financial health, and mental health. However, mobile phone data records, previously successful at predicting poverty levels, do not generate similar treatment effects to the survey data. Our results have key implications for using mobile phone data as a proxy for vulnerability in policy impact measurement.</description>
     </item>
     
   </channel>

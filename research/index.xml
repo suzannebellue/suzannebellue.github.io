@@ -6,7 +6,34 @@
     <description>Recent content in Work in progress on Suzanne Bellue</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 19 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://suzannebellue.github.io/research/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 28 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://suzannebellue.github.io/research/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Employment Transitions: Mechanisms For Gender Earnings Gap </title>
+      <link>https://suzannebellue.github.io/research/smm-gender/</link>
+      <pubDate>Fri, 28 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://suzannebellue.github.io/research/smm-gender/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Macroeconomic Consequences of Early Education Tracking</title>
+      <link>https://suzannebellue.github.io/research/tracking/</link>
+      <pubDate>Thu, 27 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://suzannebellue.github.io/research/tracking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Impact of Cash Transfers in Togo: Digital Data Do Not Recover Treatment Effects Found in Survey Data</title>
+      <link>https://suzannebellue.github.io/research/togoimpact/</link>
+      <pubDate>Wed, 26 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://suzannebellue.github.io/research/togoimpact/</guid>
+      <description>Digital cash transfer programs were setup rapidly during the COVID-19 pandemic and are increasingly common post-pandemic. In a randomized evaluation, we find that Togo&amp;rsquo;s Novissi program, which identified beneficiaries using poverty proxied by mobile phone data and provided US$13-15 in monthly mobile cash transfers, yielded modestly positive, statistically significant treatment effects on self-reported food security, financial health, and mental health. However, mobile phone data records, previously successful at predicting poverty levels, do not generate similar treatment effects to the survey data. Our results have key implications for using mobile phone data as a proxy for vulnerability in policy impact measurement.</description>
+    </item>
+    
     <item>
       <title>Why Don&#39;t Poor Families Move? A Spatial Equilibrium Analysis of Parental Decisions with Social Learning</title>
       <link>https://suzannebellue.github.io/research/neighborhoods/</link>
@@ -26,30 +53,12 @@
     </item>
     
     <item>
-      <title>Macroeconomic Consequences of Early Education Tracking</title>
-      <link>https://suzannebellue.github.io/research/tracking/</link>
-      <pubDate>Tue, 03 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://suzannebellue.github.io/research/tracking/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Teacher Training Program, Teacher Practices and Student Performance in Science: Evidence from a Randomized Study in French Primary Schools</title>
       <link>https://suzannebellue.github.io/research/teacher-training/</link>
       <pubDate>Tue, 03 Nov 2020 00:00:00 +0000</pubDate>
       
       <guid>https://suzannebellue.github.io/research/teacher-training/</guid>
       <description>We conduct a randomized study to assess the impact of an in-service teacher training program on inquiry-based learning in science in French primary schools. The study comprises 134 randomly assigned volunteer teachers and two cohorts of about 2,500 students. In addition to student test scores, we collect information on teacher practices and pedagogical knowledge. We find that the training program (80 hours over two years) increases the weekly hours of science instruction as well as the number of science experiments conducted in class. Yet, one year later, most of these effects disappear. Consistently, while we find small effects on students’ scientific knowledge during the last year of the training program, these effects are also short-lived. These results highlight the difficulty to train experienced teachers in a way that has deep and long-lasting influence on their practices.</description>
-    </item>
-    
-    <item>
-      <title>Employment Transitions: Mechanisms For Gender Earnings Gap </title>
-      <link>https://suzannebellue.github.io/research/smm-gender/</link>
-      <pubDate>Sat, 03 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://suzannebellue.github.io/research/smm-gender/</guid>
-      <description></description>
     </item>
     
   </channel>
