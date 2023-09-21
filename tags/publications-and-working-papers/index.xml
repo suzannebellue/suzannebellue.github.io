@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Work in progress on Suzanne Bellue</title>
-    <link>https://suzannebellue.github.io/research/</link>
-    <description>Recent content in Work in progress on Suzanne Bellue</description>
+    <title>Publications and working papers on Suzanne Bellue</title>
+    <link>https://suzannebellue.github.io/tags/publications-and-working-papers/</link>
+    <description>Recent content in Publications and working papers on Suzanne Bellue</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 10 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://suzannebellue.github.io/research/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 10 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://suzannebellue.github.io/tags/publications-and-working-papers/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Macroeconomic Consequences of Early Education Tracking</title>
       <link>https://suzannebellue.github.io/research/tracking/</link>
@@ -35,15 +35,6 @@
     </item>
     
     <item>
-      <title>Employment Transitions: Mechanisms For Gender Earnings Gap </title>
-      <link>https://suzannebellue.github.io/research/gender/</link>
-      <pubDate>Fri, 28 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://suzannebellue.github.io/research/gender/</guid>
-      <description>We use German administrative data to compare women&amp;rsquo;s and men&amp;rsquo;s career choices and labor income profiles over their working lives. We find a significant and robust gender gap in job-to-job transitions. When working full-time, women are less likely than men to transition from one employer to another. The first finding is that while commuting preferences and sector selection do not explain this gap, the birth event largely explains it. Second, we want to quantify the consequences of the gender gap in job-to-job transitions for the gender earnings gap. If full-time job-to-job transitions increase wage growth, this phenomenon most likely contributes to the well-documented child penalty.</description>
-    </item>
-    
-    <item>
       <title>Estimating Impact with Surveys versus Digital Traces: Evidence from Randomized Cash Transfers in Togo</title>
       <link>https://suzannebellue.github.io/research/togoimpact/</link>
       <pubDate>Wed, 26 Oct 2022 00:00:00 +0000</pubDate>
@@ -59,15 +50,6 @@
       
       <guid>https://suzannebellue.github.io/research/targeting/</guid>
       <description>Targeting is a central challenge in the administration of anti-poverty programs: given available data, how does one rapidly identify the individuals and families with the greatest need? Here we show that non-traditional “big” data from satellites and mobile phone networks can improve the targeting of anti-poverty programs. Our analysis compares outcomes – including exclusion errors, total social welfare, and measures of fairness – under different targeting regimes. Relative to other feasible targeting options, the machine learning approach reduces errors of exclusion by 4-21%. These results highlight the potential for new data sources to contribute to humanitarian response efforts, particularly in crisis settings when traditional data are missing or out of date.</description>
-    </item>
-    
-    <item>
-      <title>Impacts of a Multi-component Reading Intervention for 6th-grade Students: Results from a Clustered Randomized Controlled Trial</title>
-      <link>https://suzannebellue.github.io/research/reading/</link>
-      <pubDate>Sat, 24 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://suzannebellue.github.io/research/reading/</guid>
-      <description>This study aimed to design, implement and analyze the effectiveness of a multicomponent reading comprehension intervention for sixth-grade students with reading difficulties. We conducted a clustered randomized study with 21 French middle schools. In ten of them, teachers have implemented fluency workshops and explicit comprehension instruction. We measure the impact on 568 target students, and show no statistically significant effect of the intervention. The lack of statistical effects contrasts with observations indicating that, overall, the school leaders and the teachers declared to be satisfied with the proposed device and the actions conducted. However, our results align with a growing research base showing that setting up additional support and disseminating research tools is not enough to observe real progress in students’ performance. Indeed, our field observations revealed significant implementation difficulties.</description>
     </item>
     
   </channel>

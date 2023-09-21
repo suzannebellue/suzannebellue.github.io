@@ -6,7 +6,34 @@
     <description>Recent content on Suzanne Bellue</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 28 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://suzannebellue.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 10 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://suzannebellue.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Macroeconomic Consequences of Early Education Tracking</title>
+      <link>https://suzannebellue.github.io/research/tracking/</link>
+      <pubDate>Sun, 10 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://suzannebellue.github.io/research/tracking/</guid>
+      <description>We study the long-run macroeconomic, distributional, and intergenerational effects of school tracking &amp;mdash;the allocation of students to different types of schools&amp;mdash; by incorporating school track decisions into a general-equilibrium heterogeneous-agent overlapping-generations model. The key ingredient in the model is the child skill production technology, where a child&amp;rsquo;s skill development depends on her peers and the instruction pace in her school track. We show analytically that this technology can rationalize reduced-form evidence on the effects of school tracking on the distribution of child skills. We then calibrate the model using representative data from Germany, a country with a very early school tracking policy. Our calibrated model predicts that an education reform that postpones the tracking age from ten to fourteen generates sizable improvements in intergenerational mobility but comes at the cost of modest losses in aggregate human capital and economic output, reducing aggregate welfare. This efficiency-mobility trade-off is rooted in the effects of longer comprehensive schooling on child learning and depends crucially on the presence of general equilibrium effects in the labor market. Finally, our calibrated model predicts that policies reducing the parental influence in the school track choice increase both social mobility and aggregate economic output, improving aggregate welfare.</description>
+    </item>
+    
+    <item>
+      <title>When Effective Teacher Training Falls Short in the Classroom: Evidence from an Experiment in Primary Schools</title>
+      <link>https://suzannebellue.github.io/research/teacher-training/</link>
+      <pubDate>Sun, 20 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://suzannebellue.github.io/research/teacher-training/</guid>
+      <description>Although in-service teacher training programs are designed to enhance the performance of several cohorts of students, there is little evidence on the persistence of their effects. We present the two-year results of a large-scale randomized study of an intensive in-service teacher training program conducted in France during and after the training program&amp;rsquo;s implementation year. Our results highlight the short-run effectiveness of the training program: it successfully improves students&#39; performance but only during the implementation year. A detailed analysis of teachers&#39; outcomes indicates that teachers changed their pedagogical vision and practices but struggled to apply skills to contents not directly covered during training.</description>
+    </item>
+    
+    <item>
+      <title>Why Don&#39;t Poor Families Move? A Spatial Equilibrium Analysis of Parental Decisions with Social Learning</title>
+      <link>https://suzannebellue.github.io/research/neighborhoods/</link>
+      <pubDate>Sun, 15 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://suzannebellue.github.io/research/neighborhoods/</guid>
+      <description>In the United States, childhood neighborhood quality shapes adulthood economic opportunities. However, most children raised in bottom-quality neighborhoods still live in low-quality neighborhoods in adulthood. Could childhood neighborhood directly affect adulthood choices? I develop a quantitative spatial model of parental decisions that incorporates a novel mechanism: social learning about the technology of skill formation. Segregation generates information frictions that systematically distort parents&#39; subjective beliefs and behavior. I calibrate the model using several United States representative datasets. The calibrated model matches targeted and non-targeted parental behavior and generates an endogenous distribution of subjective beliefs. I find a relatively modest level of delusion that increases the income Gini index by 3% and the intergenerational rank-rank slope by 12%. A housing voucher policy improves the neighborhood quality of eligible families, raising children&amp;rsquo;s future earnings. When scaling up the policy, long-run and general equilibrium responses in subjective beliefs amplify the policy effects. Inequality reduces, and intergenerational mobility improves.</description>
+    </item>
+    
     <item>
       <title>Employment Transitions: Mechanisms For Gender Earnings Gap </title>
       <link>https://suzannebellue.github.io/research/gender/</link>
@@ -17,36 +44,18 @@
     </item>
     
     <item>
-      <title>Macroeconomic Consequences of Early Education Tracking</title>
-      <link>https://suzannebellue.github.io/research/tracking/</link>
-      <pubDate>Thu, 27 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://suzannebellue.github.io/research/tracking/</guid>
-      <description>This paper assesses the consequences of early school tracking on intergenerational social mobility and inequalities in Germany. We develop a quantitative, overlapping-generation life-cycle model in which we incorporate two critical elements of the debate around tracking in school: (i) homogeneous peer groups enhance learning (ii) however, there is uncertainty about the skills of young children and a strong influence of the socio-economic situation of the parents in the tracking decision. We quantify each channel by calibrating the model to match NEPS test score data&amp;mdash;a representative panel of German pupils. We then use the calibrated model to assess the consequences of postponing school tracking on social mobility, inequality, and efficiency. &lt;em&gt;Slides for this project are available upon request.&lt;/em&gt;</description>
-    </item>
-    
-    <item>
-      <title>The Impact of Cash Transfers in Togo: Digital Data Do Not Recover Treatment Effects Found in Survey Data</title>
+      <title>Estimating Impact with Surveys versus Digital Traces: Evidence from Randomized Cash Transfers in Togo</title>
       <link>https://suzannebellue.github.io/research/togoimpact/</link>
       <pubDate>Wed, 26 Oct 2022 00:00:00 +0000</pubDate>
       
       <guid>https://suzannebellue.github.io/research/togoimpact/</guid>
-      <description>Digital cash transfer programs were setup rapidly during the COVID-19 pandemic and are increasingly common post-pandemic. In a randomized evaluation, we find that Togo&amp;rsquo;s Novissi program, which identified beneficiaries using poverty proxied by mobile phone data and provided US$13-15 in monthly mobile cash transfers, yielded modestly positive, statistically significant treatment effects on self-reported food security, financial health, and mental health. However, mobile phone data records, previously successful at predicting poverty levels, do not generate similar treatment effects to the survey data. Our results have key implications for using mobile phone data as a proxy for vulnerability in policy impact measurement.</description>
-    </item>
-    
-    <item>
-      <title>Why Don&#39;t Poor Families Move? A Spatial Equilibrium Analysis of Parental Decisions with Social Learning</title>
-      <link>https://suzannebellue.github.io/research/neighborhoods/</link>
-      <pubDate>Wed, 19 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://suzannebellue.github.io/research/neighborhoods/</guid>
-      <description>In the United States, childhood neighborhood quality shapes adulthood economic opportunities. However, most children raised in bottom-quality neighborhoods still live in low-quality neighborhoods in adulthood. Could childhood neighborhood directly affect adulthood choices? I develop a quantitative spatial model of parental decisions that incorporates a novel mechanism: social learning about the technology of skill formation. Segregation generates information frictions that systematically distort parents&#39; subjective beliefs and behavior. I calibrate the model using several United States representative datasets. The calibrated model matches targeted and non-targeted parental behavior and generates an endogenous distribution of subjective beliefs. I find a relatively modest level of delusion that increases the income Gini index by 3% and the intergenerational rank-rank slope by 12%. A housing voucher policy improves the neighborhood quality of eligible families, raising children&amp;rsquo;s future earnings. When scaling up the policy, long-run and general equilibrium responses in subjective beliefs amplify the policy effects. Inequality reduces, and intergenerational mobility improves.</description>
+      <description>Do non-traditional digital trace data and traditional survey data yield similar estimates of the impact of a cash transfer program? In a randomized controlled trial of Togo’s COVID-19 Novissi program, endline survey data indicate positive treatment effects on beneficiary food security, mental health, and self-perceived economic status. However, impact estimates based on mobile phone data &amp;mdash;processed with machine learning to predict beneficiary welfare&amp;mdash; do not yield similar results, even though related data and methods do accurately predict wealth and consumption in prior cross-sectional analysis in Togo. This limitation likely arises from the underlying difficulty of using mobile phone data to predict short-term changes in wellbeing within a rural population with fairly homogeneous baseline levels of poverty. We discuss the implications of these results for using new digital data sources in impact evaluation.</description>
     </item>
     
     <item>
       <title>Machine Learning and Mobile Phone Data Can Improve the Targeting of Humanitarian Assistance</title>
       <link>https://suzannebellue.github.io/research/targeting/</link>
-      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 16 Mar 2022 00:00:00 +0000</pubDate>
       
       <guid>https://suzannebellue.github.io/research/targeting/</guid>
       <description>Targeting is a central challenge in the administration of anti-poverty programs: given available data, how does one rapidly identify the individuals and families with the greatest need? Here we show that non-traditional “big” data from satellites and mobile phone networks can improve the targeting of anti-poverty programs. Our analysis compares outcomes – including exclusion errors, total social welfare, and measures of fairness – under different targeting regimes. Relative to other feasible targeting options, the machine learning approach reduces errors of exclusion by 4-21%. These results highlight the potential for new data sources to contribute to humanitarian response efforts, particularly in crisis settings when traditional data are missing or out of date.</description>
@@ -60,15 +69,6 @@
       <guid>https://suzannebellue.github.io/license/</guid>
       <description>My blog posts are released under a Creative Commons Attribution-ShareAlike 4.0 International License.
    </description>
-    </item>
-    
-    <item>
-      <title>When Effective Teacher Training Falls Short in the Classroom: Evidence from an Experiment in Primary Schools</title>
-      <link>https://suzannebellue.github.io/research/teacher-training/</link>
-      <pubDate>Tue, 03 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://suzannebellue.github.io/research/teacher-training/</guid>
-      <description>Although in-service teacher training programs are designed to enhance the performance of several cohorts of students, there is little evidence on the persistence of their effects. We present the two-year results of a large-scale randomized study of an intensive in-service teacher training program conducted in France during and after the training program&amp;rsquo;s implementation year. Our results highlight the short-run effectiveness of the training program: it successfully improves students&#39; performance but only during the implementation year. A detailed analysis of teachers&#39; outcomes indicates that teachers changed their pedagogical vision and practices but struggled to apply skills to contents not directly covered during training.</description>
     </item>
     
     <item>
