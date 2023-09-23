@@ -8,6 +8,15 @@
     <language>en</language>
     <lastBuildDate>Sun, 10 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://suzannebellue.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Estimating Impact with Surveys versus Digital Traces: Evidence from Randomized Cash Transfers in Togo</title>
+      <link>https://suzannebellue.github.io/research/togoimpact/</link>
+      <pubDate>Sun, 10 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://suzannebellue.github.io/research/togoimpact/</guid>
+      <description>Do non-traditional digital trace data and traditional survey data yield similar estimates of the impact of a cash transfer program? In a randomized controlled trial of Togo’s COVID-19 Novissi program, endline survey data indicate positive treatment effects on beneficiary food security, mental health, and self-perceived economic status. However, impact estimates based on mobile phone data &amp;mdash;processed with machine learning to predict beneficiary welfare&amp;mdash; do not yield similar results, even though related data and methods do accurately predict wealth and consumption in prior cross-sectional analysis in Togo. This limitation likely arises from the underlying difficulty of using mobile phone data to predict short-term changes in wellbeing within a rural population with fairly homogeneous baseline levels of poverty. We discuss the implications of these results for using new digital data sources in impact evaluation.</description>
+    </item>
+    
+    <item>
       <title>Macroeconomic Consequences of Early Education Tracking</title>
       <link>https://suzannebellue.github.io/research/tracking/</link>
       <pubDate>Sun, 10 Sep 2023 00:00:00 +0000</pubDate>
@@ -41,15 +50,6 @@
       
       <guid>https://suzannebellue.github.io/research/gender/</guid>
       <description>We use German administrative data to compare women&amp;rsquo;s and men&amp;rsquo;s career choices and labor income profiles over their working lives. We find a significant and robust gender gap in job-to-job transitions. When working full-time, women are less likely than men to transition from one employer to another. The first finding is that while commuting preferences and sector selection do not explain this gap, the birth event largely explains it. Second, we want to quantify the consequences of the gender gap in job-to-job transitions for the gender earnings gap. If full-time job-to-job transitions increase wage growth, this phenomenon most likely contributes to the well-documented child penalty.</description>
-    </item>
-    
-    <item>
-      <title>Estimating Impact with Surveys versus Digital Traces: Evidence from Randomized Cash Transfers in Togo</title>
-      <link>https://suzannebellue.github.io/research/togoimpact/</link>
-      <pubDate>Wed, 26 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://suzannebellue.github.io/research/togoimpact/</guid>
-      <description>Do non-traditional digital trace data and traditional survey data yield similar estimates of the impact of a cash transfer program? In a randomized controlled trial of Togo’s COVID-19 Novissi program, endline survey data indicate positive treatment effects on beneficiary food security, mental health, and self-perceived economic status. However, impact estimates based on mobile phone data &amp;mdash;processed with machine learning to predict beneficiary welfare&amp;mdash; do not yield similar results, even though related data and methods do accurately predict wealth and consumption in prior cross-sectional analysis in Togo. This limitation likely arises from the underlying difficulty of using mobile phone data to predict short-term changes in wellbeing within a rural population with fairly homogeneous baseline levels of poverty. We discuss the implications of these results for using new digital data sources in impact evaluation.</description>
     </item>
     
     <item>

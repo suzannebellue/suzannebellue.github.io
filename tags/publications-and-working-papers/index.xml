@@ -8,6 +8,15 @@
     <language>en</language>
     <lastBuildDate>Sun, 10 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://suzannebellue.github.io/tags/publications-and-working-papers/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Estimating Impact with Surveys versus Digital Traces: Evidence from Randomized Cash Transfers in Togo</title>
+      <link>https://suzannebellue.github.io/research/togoimpact/</link>
+      <pubDate>Sun, 10 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://suzannebellue.github.io/research/togoimpact/</guid>
+      <description>Do non-traditional digital trace data and traditional survey data yield similar estimates of the impact of a cash transfer program? In a randomized controlled trial of Togo’s COVID-19 Novissi program, endline survey data indicate positive treatment effects on beneficiary food security, mental health, and self-perceived economic status. However, impact estimates based on mobile phone data &amp;mdash;processed with machine learning to predict beneficiary welfare&amp;mdash; do not yield similar results, even though related data and methods do accurately predict wealth and consumption in prior cross-sectional analysis in Togo. This limitation likely arises from the underlying difficulty of using mobile phone data to predict short-term changes in wellbeing within a rural population with fairly homogeneous baseline levels of poverty. We discuss the implications of these results for using new digital data sources in impact evaluation.</description>
+    </item>
+    
+    <item>
       <title>Macroeconomic Consequences of Early Education Tracking</title>
       <link>https://suzannebellue.github.io/research/tracking/</link>
       <pubDate>Sun, 10 Sep 2023 00:00:00 +0000</pubDate>
@@ -32,15 +41,6 @@
       
       <guid>https://suzannebellue.github.io/research/neighborhoods/</guid>
       <description>In the United States, childhood neighborhood quality shapes adulthood economic opportunities. However, most children raised in bottom-quality neighborhoods still live in low-quality neighborhoods in adulthood. Could childhood neighborhood directly affect adulthood choices? I develop a quantitative spatial model of parental decisions that incorporates a novel mechanism: social learning about the technology of skill formation. Segregation generates information frictions that systematically distort parents&#39; subjective beliefs and behavior. I calibrate the model using several United States representative datasets. The calibrated model matches targeted and non-targeted parental behavior and generates an endogenous distribution of subjective beliefs. I find a relatively modest level of delusion that increases the income Gini index by 3% and the intergenerational rank-rank slope by 12%. A housing voucher policy improves the neighborhood quality of eligible families, raising children&amp;rsquo;s future earnings. When scaling up the policy, long-run and general equilibrium responses in subjective beliefs amplify the policy effects. Inequality reduces, and intergenerational mobility improves.</description>
-    </item>
-    
-    <item>
-      <title>Estimating Impact with Surveys versus Digital Traces: Evidence from Randomized Cash Transfers in Togo</title>
-      <link>https://suzannebellue.github.io/research/togoimpact/</link>
-      <pubDate>Wed, 26 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://suzannebellue.github.io/research/togoimpact/</guid>
-      <description>Do non-traditional digital trace data and traditional survey data yield similar estimates of the impact of a cash transfer program? In a randomized controlled trial of Togo’s COVID-19 Novissi program, endline survey data indicate positive treatment effects on beneficiary food security, mental health, and self-perceived economic status. However, impact estimates based on mobile phone data &amp;mdash;processed with machine learning to predict beneficiary welfare&amp;mdash; do not yield similar results, even though related data and methods do accurately predict wealth and consumption in prior cross-sectional analysis in Togo. This limitation likely arises from the underlying difficulty of using mobile phone data to predict short-term changes in wellbeing within a rural population with fairly homogeneous baseline levels of poverty. We discuss the implications of these results for using new digital data sources in impact evaluation.</description>
     </item>
     
     <item>
