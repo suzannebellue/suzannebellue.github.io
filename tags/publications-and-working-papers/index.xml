@@ -6,7 +6,16 @@
     <description>Recent content in Publications and working papers on Suzanne Bellue</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 10 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://suzannebellue.github.io/tags/publications-and-working-papers/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 25 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://suzannebellue.github.io/tags/publications-and-working-papers/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Macroeconomic Consequences of Early Education Tracking</title>
+      <link>https://suzannebellue.github.io/research/tracking/</link>
+      <pubDate>Mon, 25 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://suzannebellue.github.io/research/tracking/</guid>
+      <description>We study the long-run macroeconomic, distributional, and intergenerational effects of school tracking &amp;mdash;the allocation of students to different types of schools&amp;mdash; by incorporating school track decisions into a general-equilibrium heterogeneous-agent overlapping-generations model. The key ingredient in the model is the child skill production technology, where a child&amp;rsquo;s skill development depends on her peers and the instruction pace in her school track. We show analytically that this technology can rationalize reduced-form evidence on the effects of school tracking on the distribution of child skills. We then calibrate the model using representative data from Germany, a country with a very early school tracking policy. Our calibrated model predicts that an education reform that postpones the tracking age from ten to fourteen generates sizable improvements in intergenerational mobility but comes at the cost of modest losses in aggregate human capital and economic output, reducing aggregate welfare. This efficiency-mobility trade-off is rooted in the effects of longer comprehensive schooling on child learning and depends crucially on the presence of general equilibrium effects in the labor market. Finally, our calibrated model predicts that policies reducing the parental influence in the school track choice increase both social mobility and aggregate economic output, improving aggregate welfare.</description>
+    </item>
+    
     <item>
       <title>Estimating Impact with Surveys versus Digital Traces: Evidence from Randomized Cash Transfers in Togo</title>
       <link>https://suzannebellue.github.io/research/togoimpact/</link>
@@ -23,15 +32,6 @@
       
       <guid>https://suzannebellue.github.io/research/teacher-training/</guid>
       <description>Although in-service teacher training programs are designed to enhance the performance of several cohorts of students, there is little evidence on the persistence of their effects. We present the two-year results of a large-scale randomized study of an intensive in-service teacher training program conducted in France during and after the training program&amp;rsquo;s implementation year. Our results highlight the short-run effectiveness of the training program: it successfully improves students&#39; performance but only during the implementation year. A detailed analysis of teachers&#39; outcomes indicates that teachers changed their pedagogical vision and practices but struggled to apply skills to contents not directly covered during training.</description>
-    </item>
-    
-    <item>
-      <title>Macroeconomic Consequences of Early Education Tracking</title>
-      <link>https://suzannebellue.github.io/research/tracking/</link>
-      <pubDate>Mon, 10 Jul 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://suzannebellue.github.io/research/tracking/</guid>
-      <description>We study the long-run macroeconomic, distributional, and intergenerational effects of school tracking &amp;mdash;the allocation of students to different types of schools&amp;mdash; by incorporating school track decisions into a general-equilibrium heterogeneous-agent overlapping-generations model. The key ingredient in the model is the child skill production technology, where a child&amp;rsquo;s skill development depends on her peers and the instruction pace in her school track. We show analytically that this technology can rationalize reduced-form evidence on the effects of school tracking on the distribution of child skills. We then calibrate the model using representative data from Germany, a country with a very early school tracking policy. Our calibrated model predicts that an education reform that postpones the tracking age from ten to fourteen generates sizable improvements in intergenerational mobility but comes at the cost of modest losses in aggregate human capital and economic output, reducing aggregate welfare. This efficiency-mobility trade-off is rooted in the effects of longer comprehensive schooling on child learning and depends crucially on the presence of general equilibrium effects in the labor market. Finally, our calibrated model predicts that policies reducing the parental influence in the school track choice increase both social mobility and aggregate economic output, improving aggregate welfare.</description>
     </item>
     
     <item>
