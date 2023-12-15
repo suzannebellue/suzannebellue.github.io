@@ -6,23 +6,23 @@
     <description>Recent content in Publications and working papers on Suzanne Bellue</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 18 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://suzannebellue.github.io/tags/publications-and-working-papers/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Macroeconomic Consequences of Early Education Tracking</title>
-      <link>https://suzannebellue.github.io/research/tracking/</link>
-      <pubDate>Wed, 18 Oct 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://suzannebellue.github.io/research/tracking/</guid>
-      <description>We study the long-run macroeconomic, distributional, and intergenerational effects of school tracking&amp;mdash;the allocation of students to different types of schools&amp;mdash;by incorporating school track decisions into a general-equilibrium heterogeneous-agent overlapping-generations model. The key ingredient in the model is the child skill production technology, where a child’s skill development depends on her peers and the instruction pace in her school track. We show analytically that this technology can rationalize reduced-form evidence on the effects of school tracking on the distribution of child skills. We then calibrate the model using representative data from Germany, a country with a very early school tracking policy. Our calibrated model predicts that an education reform that postpones the tracking age from ten to fourteen generates sizable improvements in intergenerational mobility but comes at the cost of modest losses in aggregate human capital and economic output, reducing aggregate welfare. This efficiency-mobility trade-off is rooted in the effects of longer comprehensive schooling on child learning and depends crucially on the presence of general equilibrium effects in the labor market. Finally, our calibrated model predicts that policies reducing the parental influence in the school track choice increase both social mobility and aggregate economic output, improving aggregate welfare.</description>
-    </item>
-    
+    <lastBuildDate>Fri, 15 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://suzannebellue.github.io/tags/publications-and-working-papers/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Why Don&#39;t Poor Families Move? A Spatial Equilibrium Analysis of Parental Decisions with Social Learning</title>
       <link>https://suzannebellue.github.io/research/neighborhoods/</link>
-      <pubDate>Tue, 17 Oct 2023 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 15 Dec 2023 00:00:00 +0000</pubDate>
       
       <guid>https://suzannebellue.github.io/research/neighborhoods/</guid>
       <description>In the United States, less-educated parents tend to choose lower levels of parental inputs: they reside in bad neighborhoods and allocate little time to parent-child activities. I propose a spatial overlapping generation model of parental decisions about time and neighborhood quality with imperfect information and social learning. Specifically, young agents learn about the relevance of parental inputs through observing their neighbors. Crucially, however, they are prone to misinferences as they may not be able to perfectly correct for selection induced by income segregation. I calibrate the model using several United States representative datasets. The calibrated model matches targeted and non-targeted parental behavior moments across socioeconomic groups. I find a relatively modest level of parental delusion that increases inequality by 3% (income Gini index) and social immobility by  12% (intergenerational rank-rank). A housing voucher policy improves the neighborhood quality of eligible families, raising children&amp;rsquo;s future earnings. When scaling up the policy, long-run and general equilibrium responses in parental beliefs amplify the policy effects. Inequality reduces, and intergenerational mobility improves.</description>
+    </item>
+    
+    <item>
+      <title>Macroeconomic Consequences of Early Education Tracking</title>
+      <link>https://suzannebellue.github.io/research/tracking/</link>
+      <pubDate>Sat, 18 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://suzannebellue.github.io/research/tracking/</guid>
+      <description>We study the long-run macroeconomic, distributional, and intergenerational effects of school tracking&amp;mdash;the allocation of students to different types of schools&amp;mdash;by incorporating school track decisions into a general-equilibrium heterogeneous-agent overlapping-generations model. The key ingredient in the model is the child skill production technology, where a child’s skill development depends on her peers and the instruction pace in her school track. We show analytically that this technology can rationalize reduced-form evidence on the effects of school tracking on the distribution of child skills. We then calibrate the model using representative data from Germany, a country with a very early school tracking policy. Our calibrated model predicts that an education reform that postpones the tracking age from ten to fourteen generates sizable improvements in intergenerational mobility but comes at the cost of modest losses in aggregate human capital and economic output, reducing aggregate welfare. This efficiency-mobility trade-off is rooted in the effects of longer comprehensive schooling on child learning and depends crucially on the presence of general equilibrium effects in the labor market. Finally, our calibrated model predicts that policies reducing the parental influence in the school track choice increase both social mobility and aggregate economic output, improving aggregate welfare.</description>
     </item>
     
     <item>
