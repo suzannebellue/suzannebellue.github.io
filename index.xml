@@ -6,7 +6,16 @@
     <description>Recent content on Suzanne Bellue</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 12 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://suzannebellue.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 21 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://suzannebellue.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Private Information in the Family</title>
+      <link>https://suzannebellue.github.io/research/family_asymmetry/</link>
+      <pubDate>Sat, 21 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://suzannebellue.github.io/research/family_asymmetry/</guid>
+      <description>We theoretically and empirically investigate the hypothesis that private information plays a role within families. While standard theory implies that changes in relative income do not affect relative consumption in couples, we find a positive relationship in Dutch panel data. We collected data on how spouses share information with each other within the same panel and split our sample into those couples that are fully informed about each other&amp;rsquo;s income and those that are not. We find that the positive relationship between income and consumption shares is entirely driven by those couples that are not fully informed about each other&amp;rsquo;s income. This holds true when adding couple fixed effects, so that, indeed, a change in relative income within a given couple affects their consumption sharing. These findings are consistent with an optimal contracting model with private information. In the model, to provide incentives to share information with each other, the spouse who receives an income increase gets a larger promised utility, which is isomorphic to an increase in the bargaining weight. These findings suggest that information asymmetries are more relevant for families than previously believed.</description>
+    </item>
+    
     <item>
       <title>Estimating Impact with Surveys versus Digital Traces: Evidence from Randomized Cash Transfers in Togo</title>
       <link>https://suzannebellue.github.io/research/togoimpact/</link>
@@ -71,21 +80,22 @@
     </item>
     
     <item>
-      <title>Impacts of a Multi-component Reading Intervention for 6th-grade Students: Results from a Clustered Randomized Controlled Trial</title>
-      <link>https://suzannebellue.github.io/research/reading/</link>
-      <pubDate>Sat, 24 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://suzannebellue.github.io/research/reading/</guid>
-      <description>This study aimed to design, implement and analyze the effectiveness of a multicomponent reading comprehension intervention for sixth-grade students with reading difficulties. We conducted a clustered randomized study with 21 French middle schools. In ten of them, teachers have implemented fluency workshops and explicit comprehension instruction. We measure the impact on 568 target students, and show no statistically significant effect of the intervention. The lack of statistical effects contrasts with observations indicating that, overall, the school leaders and the teachers declared to be satisfied with the proposed device and the actions conducted. However, our results align with a growing research base showing that setting up additional support and disseminating research tools is not enough to observe real progress in students’ performance. Indeed, our field observations revealed significant implementation difficulties.</description>
-    </item>
-    
-    <item>
       <title></title>
       <link>https://suzannebellue.github.io/googlecd821d012a564e1e/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://suzannebellue.github.io/googlecd821d012a564e1e/</guid>
       <description>google-site-verification: googlecd821d012a564e1e.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://suzannebellue.github.io/research/2022-reading/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://suzannebellue.github.io/research/2022-reading/</guid>
+      <description>%%&amp;mdash; title: &amp;ldquo;Impacts of a Multi-component Reading Intervention for 6th-grade Students: Results from a Clustered Randomized Controlled Trial&amp;rdquo; author: &amp;ldquo; Marina Tual, Maryse Bianco, Pascal Bressoux and Marc Gurgand&amp;rdquo; date: &amp;lsquo;2020-10-24&amp;rsquo; slug: reading tags:
+Work in progress summary: &amp;ldquo;This study aimed to design, implement and analyze the effectiveness of a multicomponent reading comprehension intervention for sixth-grade students with reading difficulties. We conducted a clustered randomized study with 21 French middle schools.</description>
     </item>
     
   </channel>
