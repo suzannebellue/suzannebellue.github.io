@@ -129,12 +129,12 @@ if (!doNotTrack) {
   var quizData = 
 [
   {
-    "question": "[1/5] Dans le modèle de Solow *sans* progrès technologique, à l'état stationnaire, le taux de croissance du PIB/hab et du K/hab est ... ?",
+    "question": "[1/5] Dans le modèle de Solow <u>sans</u> progrès technologique, à l'état stationnaire, le taux de croissance du PIB/hab et du K/hab est ... ?",
     "options": ["nul", "positif et constant", "positif et variable"],
     "correct": 0
   },
   {
-    "question": "[2/5] Dans le modèle de Solow *avec* progrès technologique, à l'état stationnaire, le taux de croissance du PIB/hab et du K/hab est ...  ?",
+    "question": "[2/5] Dans le modèle de Solow <u>avec</u> progrès technologique, à l'état stationnaire, le taux de croissance du PIB/hab et du K/hab est ...  ?",
     "options": ["nul", "positif et constant", "positif et variable"],
     "correct": 1
   },
@@ -254,7 +254,7 @@ if (!doNotTrack) {
   
   function endQuiz() {
     var container = document.getElementById("quiz-container");
-    container.innerHTML = "<h4>Fin du quiz !</h4><p>Votre score : " + userScore + " sur " + quizData.length + "</p>";
+    container.innerHTML = "<h4>Fin du quiz !</h4><p>Votre score : " + userScore + " sur " + quizData.length + "</p>" + "<p></p>" +"<p><a  href=/quiz >Retour</a></p>";
   }
 
   
