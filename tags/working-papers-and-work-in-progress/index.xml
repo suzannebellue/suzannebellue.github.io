@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Work in progress on Suzanne Bellue</title>
-    <link>https://suzannebellue.github.io/research/</link>
-    <description>Recent content in Work in progress on Suzanne Bellue</description>
+    <title>Working Papers and Work in Progress on Suzanne Bellue</title>
+    <link>https://suzannebellue.github.io/tags/working-papers-and-work-in-progress/</link>
+    <description>Recent content in Working Papers and Work in Progress on Suzanne Bellue</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 03 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://suzannebellue.github.io/research/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 03 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://suzannebellue.github.io/tags/working-papers-and-work-in-progress/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Residential and Social Mobility: A Quantitative Analysis of Parental Decisions with Social Learning</title>
       <link>https://suzannebellue.github.io/research/neighborhoods/</link>
@@ -35,49 +35,12 @@
     </item>
     
     <item>
-      <title>Estimating Impact with Surveys versus Digital Traces: Evidence from Randomized Cash Transfers in Togo</title>
-      <link>https://suzannebellue.github.io/research/togoimpact/</link>
-      <pubDate>Fri, 12 Jan 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://suzannebellue.github.io/research/togoimpact/</guid>
-      <description>We study whether program impacts can be estimated using a combination of digital trace data and machine learning. In a randomized controlled trial of cash transfers in Togo, endline survey data indicate positive treatment effects on food security, mental health, and perceived economic status. However, estimates of impact based solely on predicted endline outcomes (generated using trace data and machine learning, which do successfully predict baseline poverty) are generally not statistically significant. When post-treatment outcome data are used in conjunction with predictions to estimate treatment effects, predicted impacts are similar to those estimated using surveys.</description>
-    </item>
-    
-    <item>
-      <title>When Effective Teacher Training Falls Short in the Classroom: Evidence from an Experiment in Primary Schools</title>
-      <link>https://suzannebellue.github.io/research/teacher-training/</link>
-      <pubDate>Sun, 20 Aug 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://suzannebellue.github.io/research/teacher-training/</guid>
-      <description>Although in-service teacher training programs are designed to enhance the performance of several cohorts of students, there is little evidence on the persistence of their effects. We present the two-year results of a randomized study of an intensive in-service teacher training program conducted in France during and after the training program&amp;rsquo;s implementation. Our results highlight the short-run effectiveness of the training program: it successfully improves students&amp;rsquo; performance but only during the implementation year. A detailed analysis of teachers&amp;rsquo; outcomes indicates that teachers changed their pedagogical vision and practices but afterward struggled to apply skills to contents not directly covered during training.</description>
-    </item>
-    
-    <item>
       <title>Employment Transitions: Mechanisms for Gender Earnings Gap </title>
       <link>https://suzannebellue.github.io/research/gender/</link>
       <pubDate>Fri, 28 Oct 2022 00:00:00 +0000</pubDate>
       
       <guid>https://suzannebellue.github.io/research/gender/</guid>
       <description>We use German administrative data to compare women&amp;rsquo;s and men&amp;rsquo;s career choices and labor income profiles over their working lives. We find a significant and robust gender gap in job-to-job transitions. When working full-time, women are less likely than men to transition from one employer to another. The first finding is that while commuting preferences and sector selection do not explain this gap, the birth event largely explains it. Second, we want to quantify the consequences of the gender gap in job-to-job transitions for the gender earnings gap. If full-time job-to-job transitions increase wage growth, this phenomenon most likely contributes to the well-documented child penalty.</description>
-    </item>
-    
-    <item>
-      <title>Machine Learning and Mobile Phone Data Can Improve the Targeting of Humanitarian Assistance</title>
-      <link>https://suzannebellue.github.io/research/targeting/</link>
-      <pubDate>Wed, 16 Mar 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://suzannebellue.github.io/research/targeting/</guid>
-      <description>Targeting is a central challenge in the administration of anti-poverty programs: given available data, how does one rapidly identify the individuals and families with the greatest need? Here we show that non-traditional “big” data from satellites and mobile phone networks can improve the targeting of anti-poverty programs. Our analysis compares outcomes – including exclusion errors, total social welfare, and measures of fairness – under different targeting regimes. Relative to other feasible targeting options, the machine learning approach reduces errors of exclusion by 4-21%. These results highlight the potential for new data sources to contribute to humanitarian response efforts, particularly in crisis settings when traditional data are missing or out of date.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://suzannebellue.github.io/research/2022-reading/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://suzannebellue.github.io/research/2022-reading/</guid>
-      <description>%%&amp;mdash; title: &amp;ldquo;Impacts of a Multi-component Reading Intervention for 6th-grade Students: Results from a Clustered Randomized Controlled Trial&amp;rdquo; author: &amp;ldquo; Marina Tual, Maryse Bianco, Pascal Bressoux and Marc Gurgand&amp;rdquo; date: &amp;lsquo;2020-10-24&amp;rsquo; slug: reading tags:
-Work in progress summary: &amp;ldquo;This study aimed to design, implement and analyze the effectiveness of a multicomponent reading comprehension intervention for sixth-grade students with reading difficulties. We conducted a clustered randomized study with 21 French middle schools.</description>
     </item>
     
   </channel>
