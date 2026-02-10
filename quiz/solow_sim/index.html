@@ -25,10 +25,10 @@
 
 
 <meta property="og:site_name" content="Suzanne Bellue">
-<meta property="og:title" content=" | Suzanne Bellue">
+<meta property="og:title" content="Solow Growth Model | Suzanne Bellue">
 <meta property="og:description" content="" />
 <meta property="og:type" content="page" />
-<meta property="og:url" content="https://suzannebellue.github.io/research/2022-reading/" />
+<meta property="og:url" content="https://suzannebellue.github.io/quiz/solow_sim/" />
 <meta property="og:locale" content="en">
 
 
@@ -39,11 +39,10 @@
         <meta property="twitter:card" content="summary_large_image">
         <meta name="twitter:image" content="https://suzannebellue.github.io/img/LakePink_Social.png" >
     
-  <meta itemprop="name" content="">
-<meta itemprop="description" content="%%&mdash; title: &ldquo;Impacts of a Multi-component Reading Intervention for 6th-grade Students: Results from a Clustered Randomized Controlled Trial&rdquo; author: &ldquo; Marina Tual, Maryse Bianco, Pascal Bressoux and Marc Gurgand&rdquo; date: &lsquo;2020-10-24&rsquo; slug: reading tags:
-Work in progress summary: &ldquo;This study aimed to design, implement and analyze the effectiveness of a multicomponent reading comprehension intervention for sixth-grade students with reading difficulties. We conducted a clustered randomized study with 21 French middle schools.">
+  <meta itemprop="name" content="Solow Growth Model">
+<meta itemprop="description" content=" \[ y_t = k_t^α \] \[ k_{t&#43;1}-k_{t} = s k_t^\alpha - (n &#43; δ)k_t \] Savings rate (s): Population growth (n): Depreciation (δ): Capital share (α): Initial capital (k₀): ">
 
-<meta itemprop="wordCount" content="178">
+<meta itemprop="wordCount" content="29">
 <meta itemprop="keywords" content="" />
   
 <script type="application/javascript">
@@ -108,7 +107,7 @@ if (!doNotTrack) {
         
         
         
-      <a class="link f6 f5-l dib pv1 ph2 active" href="/research/" title="Research">Research</a>
+      <a class="link f6 f5-l dib pv1 ph2 " href="/research/" title="Research">Research</a>
       
         
         
@@ -124,63 +123,117 @@ if (!doNotTrack) {
   <section class="page-content mw7 center">
     <article class="post-content pa0 ph4-l">
       <header class="post-header">
-        <h1 class="f3 lh-solid  mb3 fw4" ></h1>
+        <h1 class="f2 lh-solid measure-narrow mb3 fw4">Solow Growth Model</h1>
         
-        <p class="f6 lh-copy mv1 mb4">by Suzanne Bellue, Suzanne Bellue</p>
         
-
- 
-  <div class="flex-auto items-center mt1">
-    <dl class="f6 lh-copy">
-    <dt class="fw7">Posted on: 
-    <b class="fw5">January 1, 0001</b></dt>
-  </dl>
-  <dl class="f6 lh-copy">
-    <dt class="fw7">Length:
-    <b class="fw5 ml0">1 minute read, 178 words</b></dt>
-  </dl>
-  
-  
-  </div>
-  
-       
-
-      <div class="flex-auto items-center">
-    
-   
-  </div>
-       
+        
       
-  
+      
       </header>
-      <section class="post-body flex-auto  mw7 center ml7 mt2 f5 tj">
-        <p>%%&mdash;
-title: &ldquo;Impacts of a Multi-component Reading Intervention for 6th-grade Students: Results from a Clustered Randomized Controlled Trial&rdquo;
-author: &ldquo;
-<a href="https://larac.univ-grenoble-alpes.fr/membre/marina-tual" target="_blank" rel="noopener">Marina Tual</a>, 
-<a href="https://larac.univ-grenoble-alpes.fr/membre/maryse-bianco" target="_blank" rel="noopener">Maryse Bianco</a>, 
-<a href="https://larac.univ-grenoble-alpes.fr/membre/pascal-bressoux" target="_blank" rel="noopener">Pascal Bressoux</a> and 
-<a href="https://www.parisschoolofeconomics.eu/en/gurgand-marc/" target="_blank" rel="noopener">Marc Gurgand</a>&rdquo;
-date: &lsquo;2020-10-24&rsquo;
-slug: reading
-tags:</p>
-<ul>
-<li>Work in progress
-summary: &ldquo;This study aimed to design, implement and analyze the effectiveness of a multicomponent reading comprehension intervention for sixth-grade students with reading difficulties. We conducted a clustered randomized study with 21 French middle schools. In ten of them, teachers have implemented fluency workshops and explicit comprehension instruction. We measure the impact on 568 target students, and show no statistically significant effect of the intervention. The lack of statistical effects contrasts with observations indicating that, overall, the school leaders and the teachers declared to be satisfied with the proposed device and the actions conducted. However, our results align with a growing research base showing that setting up additional support and disseminating research tools is not enough to observe real progress in students’ performance. Indeed, our field observations revealed significant implementation difficulties. &quot;
-featured: true
-full_abstract: false
-links:
-show_post_date: false
-show_links: yes
-images:</li>
-</ul>
-<hr>
+      <section class="post-body pt5 pb4">
+        <div class="solow-container">
+  
 
+\[
+y_t = k_t^α
+\]
+\[
+k_{t+1}-k_{t} = s k_t^\alpha - (n + δ)k_t
+\]
+  <div class="controls">
+    <label>
+      Savings rate (s): <span id="s-val"></span><br>
+      <input type="range" id="s" min="0.05" max="0.6" step="0.01" value="0.2"><br>
+    </label>
+
+    <label>
+      Population growth (n): <span id="n-val"></span><br>
+      <input type="range" id="n" min="0" max="0.05" step="0.001" value="0.02"><br>
+    </label>
+
+    <label>
+      Depreciation (δ): <span id="d-val"></span><br>
+      <input type="range" id="d" min="0.01" max="0.1" step="0.005" value="0.05"><br>
+    </label>
+
+    <label>
+      Capital share (α): <span id="a-val"></span><br>
+      <input type="range" id="a" min="0.1" max="0.6" step="0.01" value="0.33"><br>
+    </label>
+    <label>
+  Initial capital (k₀): <span id="k0-val"></span><br>
+  <input type="range" id="k0" min="0.05" max="10" step="0.05" value="0.2">
+</label><br>
+  </div>
+
+<canvas id="solowChart"></canvas>
+<canvas id="capitalChart"></canvas>
+<canvas id="consumptionChart"></canvas>
+  
+</div>
+
+<link rel="stylesheet" href="/css/solow.css">
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script src="/js/solow.js"></script>
+
+<!--
+## Questions
+
+<div class="solow-question">
+  <p><strong>Question:</strong> Hold α and δ fixed. What happens to the steady-state level of capital per worker when the savings rate increases?</p>
+
+  <button onclick="toggleAnswer('q1')">
+    Show / Hide Answer
+  </button>
+
+  <div id="q1" class="solow-answer">
+    <p><strong>Answer:</strong> An increase in s raises steady-state capital per worker k*.</p>
+  </div>
+</div>
+
+
+<div class="solow-question">
+  <p><strong>Question:</strong> Increase population growth n. What happens to steady-state output per worker?</p>
+
+  <button onclick="toggleAnswer('q2')">
+    Show / Hide Answer
+  </button>
+
+  <div id="q2" class="solow-answer">
+    <p><strong>Answer:</strong> Higher n lowers steady-state output per worker.</p>
+  </div>
+</div>
+
+
+<div class="solow-question">
+  <p><strong>Question:</strong> Does changing n affect the long-run growth rate of output per worker? Why?</p>
+
+  <button onclick="toggleAnswer('q3')">
+    Show / Hide Answer
+  </button>
+
+  <div id="q3" class="solow-answer">
+    <p><strong>Answer:</strong> No. Without technological progress, long-run growth of y per worker is zero.</p>
+  </div>
+</div>
+
+-->
+        
       </section>
       <footer class="post-footer">
+        <div class="post-pagination dt w-100 mt4 mb2">
+  
+  
+  
+  
+    <a class="next dtc pl2 tr v-top fw6"
+    href="https://suzannebellue.github.io/quiz/solow/">Le modèle de Solow &rarr;</a>
+  
+</div>
+
       </footer>
     </article>
-       
+    
   </section>
 </main>
 <footer class="site-footer pv4 bt b--transparent ph5" role="contentinfo">
