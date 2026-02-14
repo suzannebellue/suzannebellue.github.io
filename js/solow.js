@@ -14,7 +14,7 @@ function simulateTransition(params, k0) {
     kPath.push({ x: t, y: k });
     cPath.push({ x: t, y: c });
 
-    const dk = params.s * y - (params.n + params.delta) * k;
+    const dk = params.s * y - (params.n + params.delta + params.g) * k;
     k = Math.max(k + dk, 1e-4);
   }
 
@@ -35,7 +35,7 @@ function generateSolowCurves(params) {
     const output = Math.pow(k, params.alpha);
     y.push({ x: k, y: output });
     sy.push({ x: k, y: params.s * output });
-    breakeven.push({ x: k, y: (params.n + params.delta) * k });
+    breakeven.push({ x: k, y: (params.n + params.delta + params.g) * k });
   }
 
   return { y, sy, breakeven };
@@ -43,7 +43,7 @@ function generateSolowCurves(params) {
 
 function steadyState(params) {
   const kStar = Math.pow(
-    params.s / (params.n + params.delta),
+    params.s / (params.n + params.delta + params.g),
     1 / (1 - params.alpha)
   );
   const yStar = Math.pow(kStar, params.alpha);
@@ -58,7 +58,7 @@ function steadyState(params) {
   data: {
     datasets: [
       {
-        label: "yₜ₊₁ = kₜ^α",
+        label: "ỹₜ₊₁ =k̃ₜ^α",
         data: [],
         borderColor: "#2563eb",
         borderWidth: 1,
@@ -66,7 +66,7 @@ function steadyState(params) {
         parsing: false
       },
       {
-        label: "s · yₜ",
+        label: "s · ỹₜ",
         data: [],
         borderColor: "#16a34a",
         borderWidth: 2,
@@ -74,7 +74,7 @@ function steadyState(params) {
         parsing: false
       },
       {
-        label: "(n + δ)kₜ",
+        label: "(n + δ + g)k̃",
         data: [],
         borderColor: "#dc2626",
         borderDash: [6, 4],
@@ -94,7 +94,7 @@ function steadyState(params) {
         max: 10,
         title: {
           display: true,
-          text: "k (capital per worker)"
+          text: "k̃ (capital per efficiency unit worker)"
         }
       },
       y: {
@@ -102,7 +102,7 @@ function steadyState(params) {
         max: 2,
         title: {
           display: true,
-          text: "Output / Investment per worker"
+          text: "Output / Investment per efficiency unit worker"
         }
       }
     },
@@ -120,7 +120,7 @@ const capitalChart = new Chart(kCtx, {
   type: "line",
   data: {
     datasets: [{
-      label: "Capital per worker (kₜ)",
+      label: "Capital per worker (k̃ₜ)",
       data: [],
       borderColor: "#2563eb",
       borderWidth: 2,
@@ -141,7 +141,7 @@ const capitalChart = new Chart(kCtx, {
       y: {
         min: 0,
         max: 10,
-        title: { display: true, text: "k" }
+        title: { display: true, text: "k̃" }
       }
     }
   }
@@ -153,7 +153,7 @@ const consumptionChart = new Chart(cCtx, {
   type: "line",
   data: {
     datasets: [{
-      label: "Consumption per worker (cₜ=(1-s)yₜ)",
+      label: "Consumption per worker (c\u0303ₜ=(1-s)ỹₜ)",
       data: [],
       borderColor: "#f97316",
       borderWidth: 2,
@@ -174,7 +174,7 @@ const consumptionChart = new Chart(cCtx, {
       y: {
         min: 0,
         max: 4,
-        title: { display: true, text: "c" }
+        title: { display: true, text: "c\u0303" }
       }
     }
   }
@@ -186,13 +186,15 @@ const consumptionChart = new Chart(cCtx, {
     s: +document.getElementById("s").value,
     n: +document.getElementById("n").value,
     delta: +document.getElementById("d").value,
-    alpha: +document.getElementById("a").value
+    alpha: +document.getElementById("a").value,
+    g: +document.getElementById("g").value
   };
 
   document.getElementById("s-val").textContent = params.s;
   document.getElementById("n-val").textContent = params.n;
   document.getElementById("d-val").textContent = params.delta;
   document.getElementById("a-val").textContent = params.alpha;
+  document.getElementById("g-val").textContent = params.g;
 
   const curves = generateSolowCurves(params);
   //const kStar = steadyState(params);

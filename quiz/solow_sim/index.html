@@ -40,9 +40,9 @@
         <meta name="twitter:image" content="https://suzannebellue.github.io/img/LakePink_Social.png" >
     
   <meta itemprop="name" content="Solow Growth Model">
-<meta itemprop="description" content=" \[ y_t = k_t^α \] \[ k_{t&#43;1}-k_{t} = s k_t^\alpha - (n &#43; δ)k_t \] Savings rate (s): Population growth (n): Depreciation (δ): Capital share (α): Initial capital (k₀): ">
+<meta itemprop="description" content=" \[ \tilde{y}_t = \tilde{k}_t^α \] \[ \tilde{k}_{t&#43;1}-\tilde{k}_{t} = s \tilde{k}_t^\alpha - (n &#43; δ &#43; g)\tilde{k}_t \] Savings rate (s): Population growth (n): Depreciation (δ): Technological growth (g): Capital share (α): Initial capital (k₀): ">
 
-<meta itemprop="wordCount" content="29">
+<meta itemprop="wordCount" content="34">
 <meta itemprop="keywords" content="" />
   
 <script type="application/javascript">
@@ -135,10 +135,10 @@ if (!doNotTrack) {
   
 
 \[
-y_t = k_t^α
+\tilde{y}_t = \tilde{k}_t^α
 \]
 \[
-k_{t+1}-k_{t} = s k_t^\alpha - (n + δ)k_t
+\tilde{k}_{t+1}-\tilde{k}_{t} = s \tilde{k}_t^\alpha - (n + δ + g)\tilde{k}_t
 \]
   <div class="controls">
     <label>
@@ -154,6 +154,11 @@ k_{t+1}-k_{t} = s k_t^\alpha - (n + δ)k_t
     <label>
       Depreciation (δ): <span id="d-val"></span><br>
       <input type="range" id="d" min="0.01" max="0.1" step="0.005" value="0.05"><br>
+    </label>
+        
+        <label>
+      Technological growth (g): <span id="g-val"></span><br>
+      <input type="range" id="g" min="0.01" max="0.1" step="0.005" value="0.05"><br>
     </label>
 
     <label>
