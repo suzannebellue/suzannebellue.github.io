@@ -5,10 +5,9 @@
     <link>https://suzannebellue.github.io/quiz/</link>
     <description>Recent content in Questions Interactives on Suzanne Bellue</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Mon, 03 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://suzannebellue.github.io/quiz/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://suzannebellue.github.io/quiz/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Solow Growth Model</title>
+      <title>Solow Growth Model Simulation</title>
       <link>https://suzannebellue.github.io/quiz/solow_sim/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -17,12 +16,18 @@
     </item>
     
     <item>
-      <title>Le modèle de Solow</title>
-      <link>https://suzannebellue.github.io/quiz/solow/</link>
-      <pubDate>Mon, 03 Feb 2025 00:00:00 +0000</pubDate>
+      <title>QCM Solow</title>
+      <link>https://suzannebellue.github.io/quiz/quizzsolow/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://suzannebellue.github.io/quiz/solow/</guid>
-      <description> </description>
+      <guid>https://suzannebellue.github.io/quiz/quizzsolow/</guid>
+      <description>QCM – Modèle de Solow 10 questions – 1 seule bonne réponse
+1. Dans le modèle de Solow sans progrès technologique, à l&#39;état stationnaire, le taux de croissance du PIB/hab et du K/hab est :
+A. nul
+B. positif et constant
+C. positif et variable
+2. Dans le modèle de Solow avec progrès technologique, à l&#39;état stationnaire, le taux de croissance du PIB/hab et du K/hab est :
+A. nul</description>
     </item>
     
   </channel>

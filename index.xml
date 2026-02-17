@@ -8,7 +8,7 @@
     <language>en</language>
     <lastBuildDate>Thu, 03 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://suzannebellue.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Solow Growth Model</title>
+      <title>Solow Growth Model Simulation</title>
       <link>https://suzannebellue.github.io/quiz/solow_sim/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -23,15 +23,6 @@
       
       <guid>https://suzannebellue.github.io/research/neighborhoods/</guid>
       <description>In the U.S., beliefs about parenting and parental choices differ across socioeconomic groups. This paper develops an overlapping generations model with social learning, where young adults form beliefs about parenting by observing neighbors but may make inference mistakes due to selection neglect&amp;mdash;imperfect correction for selection. In equilibrium, residential segregation generates information frictions that foster heterogeneous beliefs and distort parenting decisions. When calibrated to the U.S., the model suggests these beliefs reduce equity and efficiency, and housing vouchers can enhance both social mobility and aggregate income. In contrast, a model that replaces beliefs with fixed preference heterogeneity predicts income losses.</description>
-    </item>
-    
-    <item>
-      <title>Le modèle de Solow</title>
-      <link>https://suzannebellue.github.io/quiz/solow/</link>
-      <pubDate>Mon, 03 Feb 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://suzannebellue.github.io/quiz/solow/</guid>
-      <description> </description>
     </item>
     
     <item>
@@ -114,6 +105,21 @@
       <guid>https://suzannebellue.github.io/research/2022-reading/</guid>
       <description>%%&amp;mdash; title: &amp;ldquo;Impacts of a Multi-component Reading Intervention for 6th-grade Students: Results from a Clustered Randomized Controlled Trial&amp;rdquo; author: &amp;ldquo; Marina Tual, Maryse Bianco, Pascal Bressoux and Marc Gurgand&amp;rdquo; date: &amp;lsquo;2020-10-24&amp;rsquo; slug: reading tags:
 Work in progress summary: &amp;ldquo;This study aimed to design, implement and analyze the effectiveness of a multicomponent reading comprehension intervention for sixth-grade students with reading difficulties. We conducted a clustered randomized study with 21 French middle schools.</description>
+    </item>
+    
+    <item>
+      <title>QCM Solow</title>
+      <link>https://suzannebellue.github.io/quiz/quizzsolow/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://suzannebellue.github.io/quiz/quizzsolow/</guid>
+      <description>QCM – Modèle de Solow 10 questions – 1 seule bonne réponse
+1. Dans le modèle de Solow sans progrès technologique, à l&#39;état stationnaire, le taux de croissance du PIB/hab et du K/hab est :
+A. nul
+B. positif et constant
+C. positif et variable
+2. Dans le modèle de Solow avec progrès technologique, à l&#39;état stationnaire, le taux de croissance du PIB/hab et du K/hab est :
+A. nul</description>
     </item>
     
   </channel>
