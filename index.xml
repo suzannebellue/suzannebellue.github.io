@@ -6,14 +6,135 @@
     <description>Recent content on Suzanne Bellue</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 03 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://suzannebellue.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 17 Feb 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://suzannebellue.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Solow Growth Model Simulation</title>
+      <title>Simulation du modèle de Solow</title>
       <link>https://suzannebellue.github.io/quiz/solow_sim/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 17 Feb 2026 00:00:00 +0000</pubDate>
       
       <guid>https://suzannebellue.github.io/quiz/solow_sim/</guid>
       <description> \[ \tilde{y}_t = \tilde{k}_t^α \] \[ \tilde{k}_{t+1}-\tilde{k}_{t} = s \tilde{k}_t^\alpha - (n + δ + g)\tilde{k}_t \] Savings rate (s): Population growth (n): Depreciation (δ): Technological growth (g): Capital share (α): Initial capital (k₀): </description>
+    </item>
+    
+    <item>
+      <title>QCM: PIB &amp; Mesure du niveau de vie</title>
+      <link>https://suzannebellue.github.io/quiz/quizzpib/</link>
+      <pubDate>Sun, 18 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://suzannebellue.github.io/quiz/quizzpib/</guid>
+      <description>4 questions – une ou plusieurs bonnes réponses
+1. Le PIB nominal se distingue du PIB réel parce que :
+A. Le PIB nominal est évalué aux prix courants de l&#39;année considérée.
+B. Le PIB réel est corrigé de l&#39;inflation.
+C. Le PIB nominal exclut les biens durables.
+D. Le PIB réel utilise un indice chaîné.
+E. Le PIB nominal tient compte des variations de parité de pouvoir d&#39;achat.
+2. (Examen 2025) Le PIB peut être mesuré par trois approches équivalentes.</description>
+    </item>
+    
+    <item>
+      <title>QCM : Modèle de Solow</title>
+      <link>https://suzannebellue.github.io/quiz/quizzsolow/</link>
+      <pubDate>Sat, 17 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://suzannebellue.github.io/quiz/quizzsolow/</guid>
+      <description>19 questions – une ou plusieurs bonnes réponses
+1. Dans le modèle de Solow sans progrès technologique, à l&#39;état stationnaire, le taux de croissance du PIB/hab et du K/hab est :
+A. nul
+B. positif et constant
+C. positif et variable
+2. Dans le modèle de Solow avec progrès technologique, à l&#39;état stationnaire, le taux de croissance du PIB/hab et du K/hab est :
+A. nul
+B. positif et constant</description>
+    </item>
+    
+    <item>
+      <title>QCM: La consommation</title>
+      <link>https://suzannebellue.github.io/quiz/quizzconsommation/</link>
+      <pubDate>Fri, 16 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://suzannebellue.github.io/quiz/quizzconsommation/</guid>
+      <description>15 questions – 1 seule bonne réponse
+1. Selon Keynes, lorsque le revenu augmente :
+A. C augmente plus que Y
+B. C augmente moins que Y
+C. C reste constant
+D. C diminue
+2. La propension marginale à consommer est :
+A. &amp;gt; 1
+B. = 1
+C. entre 0 et 1
+D. négative
+3. Dans les données agrégées, C/Y est :
+A. croissant
+B. décroissant
+C. approximativement constant</description>
+    </item>
+    
+    <item>
+      <title>QCM: Marché du travail</title>
+      <link>https://suzannebellue.github.io/quiz/quizztravail/</link>
+      <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://suzannebellue.github.io/quiz/quizztravail/</guid>
+      <description>19 questions – une ou plusieure bonnes réponses
+1. Dans un modèle de décision consommation-loisir, le ménage maximise :
+A. c
+B. u(c)
+C. u(c)+v(ℓ)
+D. wL
+2. La contrainte budgétaire est :
+A. c=wℓ
+B. c≤w(1−ℓ)
+C. c=wL+T
+D. c=w−ℓ
+3. La condition d&#39;arbitrage/optimalité implique :
+A. w=u&#39;(c)
+B. w=u&#39;/v&#39;
+C. w=v&#39;/u&#39;
+D. w=c/ℓ
+4. Une hausse du salaire a un effet :
+A. positif sur loisir
+B. négatif sur loisir</description>
+    </item>
+    
+    <item>
+      <title>QCM: Investissement</title>
+      <link>https://suzannebellue.github.io/quiz/quizzinvestissement/</link>
+      <pubDate>Wed, 14 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://suzannebellue.github.io/quiz/quizzinvestissement/</guid>
+      <description>3 questions – une ou plusieure bonnes réponses
+1. Projet rentable si :
+A. VAN&amp;lt;0
+B. VAN=0
+C. VAN&amp;gt;0
+D. r=0
+2.Quelle est la condition d&#39;équilibre sur le marché de l&#39;investissement ?
+A. FK=r
+B. FK−δ=r
+C. FK=δ
+D. r=s
+3. (Examen 2025) La valeur actuelle nette d’un projet est positive si :
+A. Le taux d&#39;intérêt est nul
+B. Les flux sont constants
+C. Les flux futurs sont positifs</description>
+    </item>
+    
+    <item>
+      <title>QCM: Equilibre général et autres concepts</title>
+      <link>https://suzannebellue.github.io/quiz/quizzequilibre/</link>
+      <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://suzannebellue.github.io/quiz/quizzequilibre/</guid>
+      <description>3 questions – une ou plusieurs bonnes réponses
+1. (Examen 2025) Quelle(s) affirmation(s) correspond(ent) au « consommateur rationnel » de ce modèle ?
+A. Il égalise l&#39;utilité marginale de sa consommation en période 1 à celle de la période 2.
+B. Il égalise propension marginale et moyenne.
+C. Il lisse sa consommation entre périodes.
+D. Il ignore le taux d&#39;intérêt.
+E. En moyenne, il anticipe correctement son revenu futur.
+2. (Examen 2025) Le premier théorème du bien-être affirme que :</description>
     </item>
     
     <item>
@@ -105,22 +226,6 @@
       <guid>https://suzannebellue.github.io/research/2022-reading/</guid>
       <description>%%&amp;mdash; title: &amp;ldquo;Impacts of a Multi-component Reading Intervention for 6th-grade Students: Results from a Clustered Randomized Controlled Trial&amp;rdquo; author: &amp;ldquo; Marina Tual, Maryse Bianco, Pascal Bressoux and Marc Gurgand&amp;rdquo; date: &amp;lsquo;2020-10-24&amp;rsquo; slug: reading tags:
 Work in progress summary: &amp;ldquo;This study aimed to design, implement and analyze the effectiveness of a multicomponent reading comprehension intervention for sixth-grade students with reading difficulties. We conducted a clustered randomized study with 21 French middle schools.</description>
-    </item>
-    
-    <item>
-      <title>QCM : Modèle de Solow</title>
-      <link>https://suzannebellue.github.io/quiz/quizzsolow/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://suzannebellue.github.io/quiz/quizzsolow/</guid>
-      <description>15 questions – 1 seule bonne réponse
-1. Dans le modèle de Solow sans progrès technologique, à l&#39;état stationnaire, le taux de croissance du PIB/hab et du K/hab est :
-A. nul
-B. positif et constant
-C. positif et variable
-2. Dans le modèle de Solow avec progrès technologique, à l&#39;état stationnaire, le taux de croissance du PIB/hab et du K/hab est :
-A. nul
-B. positif et constant</description>
     </item>
     
   </channel>

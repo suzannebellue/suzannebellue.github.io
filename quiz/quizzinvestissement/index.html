@@ -25,10 +25,10 @@
 
 
 <meta property="og:site_name" content="Suzanne Bellue">
-<meta property="og:title" content="Simulation du modèle de Solow | Suzanne Bellue">
+<meta property="og:title" content="QCM: Investissement | Suzanne Bellue">
 <meta property="og:description" content="" />
 <meta property="og:type" content="page" />
-<meta property="og:url" content="https://suzannebellue.github.io/quiz/solow_sim/" />
+<meta property="og:url" content="https://suzannebellue.github.io/quiz/quizzinvestissement/" />
 <meta property="og:locale" content="en">
 
 
@@ -39,10 +39,24 @@
         <meta property="twitter:card" content="summary_large_image">
         <meta name="twitter:image" content="https://suzannebellue.github.io/img/LakePink_Social.png" >
     
-  <meta itemprop="name" content="Simulation du modèle de Solow">
-<meta itemprop="description" content=" \[ \tilde{y}_t = \tilde{k}_t^α \] \[ \tilde{k}_{t&#43;1}-\tilde{k}_{t} = s \tilde{k}_t^\alpha - (n &#43; δ &#43; g)\tilde{k}_t \] Savings rate (s): Population growth (n): Depreciation (δ): Technological growth (g): Capital share (α): Initial capital (k₀): "><meta itemprop="datePublished" content="2026-02-17T00:00:00+00:00" />
-<meta itemprop="dateModified" content="2026-02-17T00:00:00+00:00" />
-<meta itemprop="wordCount" content="34">
+  <meta itemprop="name" content="QCM: Investissement">
+<meta itemprop="description" content="3 questions – une ou plusieure bonnes réponses
+1. Projet rentable si :
+A. VAN&lt;0
+B. VAN=0
+C. VAN&gt;0
+D. r=0
+2.Quelle est la condition d&#39;équilibre sur le marché de l&#39;investissement ?
+A. FK=r
+B. FK−δ=r
+C. FK=δ
+D. r=s
+3. (Examen 2025) La valeur actuelle nette d’un projet est positive si :
+A. Le taux d&#39;intérêt est nul
+B. Les flux sont constants
+C. Les flux futurs sont positifs"><meta itemprop="datePublished" content="2026-01-14T00:00:00+00:00" />
+<meta itemprop="dateModified" content="2026-01-14T00:00:00+00:00" />
+<meta itemprop="wordCount" content="90">
 <meta itemprop="keywords" content="" />
   
 <script type="application/javascript">
@@ -95,7 +109,7 @@ if (!doNotTrack) {
   });">
 </script>
     <body>
-      <div class="grid-container">
+      <div class="grid-container raw">
 <header class="site-header pt4 pb2 mb4 bb b--transparent ph5 headroom z-max" role="banner">
   <nav class="site-nav db dt-l w-100" role="navigation">
     <a class="site-brand db dtc-l v-mid link no-underline w-100 w-33-l tc tl-l" href="https://suzannebellue.github.io/" title="Home">
@@ -123,7 +137,7 @@ if (!doNotTrack) {
   <section class="page-content mw7 center">
     <article class="post-content pa0 ph4-l">
       <header class="post-header">
-        <h1 class="f2 lh-solid measure-narrow mb3 fw4">Simulation du modèle de Solow</h1>
+        <h1 class="f2 lh-solid measure-narrow mb3 fw4">QCM: Investissement</h1>
         
         
         
@@ -131,108 +145,96 @@ if (!doNotTrack) {
       
       </header>
       <section class="post-body pt5 pb4">
-        <div class="solow-container">
-  
-
-\[
-\tilde{y}_t = \tilde{k}_t^α
-\]
-\[
-\tilde{k}_{t+1}-\tilde{k}_{t} = s \tilde{k}_t^\alpha - (n + δ + g)\tilde{k}_t
-\]
-  <div class="controls">
-    <label>
-      Savings rate (s): <span id="s-val"></span><br>
-      <input type="range" id="s" min="0.05" max="0.6" step="0.01" value="0.2"><br>
-    </label>
-
-    <label>
-      Population growth (n): <span id="n-val"></span><br>
-      <input type="range" id="n" min="0" max="0.05" step="0.001" value="0.02"><br>
-    </label>
-
-    <label>
-      Depreciation (δ): <span id="d-val"></span><br>
-      <input type="range" id="d" min="0.01" max="0.1" step="0.005" value="0.05"><br>
-    </label>
-        
-        <label>
-      Technological growth (g): <span id="g-val"></span><br>
-      <input type="range" id="g" min="0.01" max="0.1" step="0.005" value="0.05"><br>
-    </label>
-
-    <label>
-      Capital share (α): <span id="a-val"></span><br>
-      <input type="range" id="a" min="0.1" max="0.6" step="0.01" value="0.33"><br>
-    </label>
-    <label>
-  Initial capital (k₀): <span id="k0-val"></span><br>
-  <input type="range" id="k0" min="0.05" max="10" step="0.05" value="0.2">
-</label><br>
-  </div>
-
-<canvas id="solowChart"></canvas>
-<canvas id="capitalChart"></canvas>
-<canvas id="consumptionChart"></canvas>
-  
+        <p>3 questions – une ou plusieure bonnes réponses</p>
+<form id="quizForm">
+<!-- Q1 -->
+<p><b>1.</b> Projet rentable si :</p>
+<input type="radio" name="q1" value="A"> A. VAN&lt;0<br>
+<input type="radio" name="q1" value="B"> B. VAN=0<br>
+<input type="radio" name="q1" value="C"> C. VAN&gt;0<br>
+<input type="radio" name="q1" value="D"> D. r=0<br><br>
+<!-- Q2 -->
+<p><b>2.</b>Quelle est la condition d'équilibre sur le marché de l'investissement ?</p>
+<input type="radio" name="q2" value="A"> A. F<sub>K</sub>=r<br>
+<input type="radio" name="q2" value="B"> B. F<sub>K</sub>−δ=r<br>
+<input type="radio" name="q2" value="C"> C. F<sub>K</sub>=δ<br>
+<input type="radio" name="q2" value="D"> D. r=s<br><br>
+<!-- Q3 — plusieurs bonnes réponses : checkboxes -->
+<p><b>3.</b> <em>(Examen 2025)</em> La valeur actuelle nette d’un projet est positive si :</p>
+<input type="checkbox" name="q3" value="A"> A. Le taux d'intérêt est nul<br>
+<input type="checkbox" name="q3" value="B"> B. Les flux sont constants<br>
+<input type="checkbox" name="q3" value="C"> C. Les flux futurs sont positifs<br>
+<input type="checkbox" name="q3" value="D"> D. L'investissement est autofinancé<br>
+<input type="checkbox" name="q3" value="E"> E. La somme actualisée des flux dépasse le coût initial<br><br>
+<p><button type="button" onclick="gradeQuiz()">Valider</button></p>
+</form>
+<h2 id="result"></h2>
+<div id="correction" style="display:none;">
+<h3>Correction</h3>
+<ol>
+<li>C</li>
+<li>B</li>
+<li>E</li>
+</ol>
 </div>
+<p>
+  <a href="/quiz/" style="
+    display:inline-block;
+    padding:10px 18px;
+    background-color:#2c3e50;
+    color:white;
+    text-decoration:none;
+    border-radius:6px;
+    font-weight:bold;
+  ">
+    Retour
+  </a>
+</p>
+<script>
+function gradeQuiz() {
+  const singleAnswers = {
+  q1:"C", q2:"B"
+  };
 
-<link rel="stylesheet" href="/css/solow.css">
-<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-<script src="/js/solow.js"></script>
+  let score = 0;
 
-<!--
-## Questions
+  for (let q in singleAnswers) {
+    const selected = document.querySelector('input[name="' + q + '"]:checked');
+    if (selected && selected.value === singleAnswers[q]) {
+      score++;
+    }
+  }
 
-<div class="solow-question">
-  <p><strong>Question:</strong> Hold α and δ fixed. What happens to the steady-state level of capital per worker when the savings rate increases?</p>
-
-  <button onclick="toggleAnswer('q1')">
-    Show / Hide Answer
-  </button>
-
-  <div id="q1" class="solow-answer">
-    <p><strong>Answer:</strong> An increase in s raises steady-state capital per worker k*.</p>
-  </div>
-</div>
+  // Correction de la Q3 (checkboxes, plusieurs bonnes réponses)
+  const correctQ3 = ["E"];
+  const checkedQ3 = Array.from(document.querySelectorAll('input[name="q3"]:checked')).map(el => el.value);
+  const isCorrectQ3 =
+    correctQ3.length === checkedQ3.length &&
+    correctQ3.every(v => checkedQ3.includes(v));
+  if (isCorrectQ3) score++;
 
 
-<div class="solow-question">
-  <p><strong>Question:</strong> Increase population growth n. What happens to steady-state output per worker?</p>
+  document.getElementById("result").innerHTML =
+    "Score : <strong>" + score + "/3</strong>";
 
-  <button onclick="toggleAnswer('q2')">
-    Show / Hide Answer
-  </button>
+  document.getElementById("correction").style.display = "block";
+}
 
-  <div id="q2" class="solow-answer">
-    <p><strong>Answer:</strong> Higher n lowers steady-state output per worker.</p>
-  </div>
-</div>
+</script>
 
-
-<div class="solow-question">
-  <p><strong>Question:</strong> Does changing n affect the long-run growth rate of output per worker? Why?</p>
-
-  <button onclick="toggleAnswer('q3')">
-    Show / Hide Answer
-  </button>
-
-  <div id="q3" class="solow-answer">
-    <p><strong>Answer:</strong> No. Without technological progress, long-run growth of y per worker is zero.</p>
-  </div>
-</div>
-
--->
         
       </section>
       <footer class="post-footer">
         <div class="post-pagination dt w-100 mt4 mb2">
   
   
+    <a class="prev dtc pr2 tl v-top fw6"
+    href="https://suzannebellue.github.io/quiz/quizztravail/">&larr; QCM: Marché du travail</a>
+  
   
   
     <a class="next dtc pl2 tr v-top fw6"
-    href="https://suzannebellue.github.io/quiz/quizzpib/">QCM: PIB &amp; Mesure du niveau de vie &rarr;</a>
+    href="https://suzannebellue.github.io/quiz/quizzequilibre/">QCM: Equilibre général et autres concepts &rarr;</a>
   
 </div>
 
