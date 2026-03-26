@@ -6,7 +6,16 @@
     <description>Recent content in Work in progress on Suzanne Bellue</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 03 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://suzannebellue.github.io/research/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 21 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://suzannebellue.github.io/research/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Private Information in the Family</title>
+      <link>https://suzannebellue.github.io/research/family_asymmetry/</link>
+      <pubDate>Sat, 21 Mar 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://suzannebellue.github.io/research/family_asymmetry/</guid>
+      <description>Standard family models assume spouses share information. We challenge this with theory and evidence from a new survey module in the Dutch LISS panel, where spouses independently report knowledge of each other’s finances. Private information is pervasive: in 40% of couples, at least one partner lacks full knowledge of the other’s income. Using a mechanism design approach, we show that constrained-efficient allocations require no full revelation, and predict that income and consumption shares co-move only under imperfect information. LISS data confirm this: the income-consumption relationship appears only among poorly informed couples, even after controlling for limited commitment.</description>
+    </item>
+    
     <item>
       <title>Residential and Social Mobility: A Quantitative Analysis of Parental Decisions with Social Learning</title>
       <link>https://suzannebellue.github.io/research/neighborhoods/</link>
@@ -23,15 +32,6 @@
       
       <guid>https://suzannebellue.github.io/research/tracking/</guid>
       <description>We study the long-run macroeconomic, distributional, and intergenerational effects of school tracking&amp;mdash;the allocation of students to different types of schools&amp;mdash;by incorporating school track decisions into a general-equilibrium heterogeneous-agent overlapping-generations model. The key ingredient in the model is the child skill production technology, where a child’s skill development depends on her peers and the instruction pace in her school track. We show analytically that this technology can rationalize reduced-form evidence on the effects of school tracking on the distribution of child skills. We then calibrate the model using representative data from Germany, a country with a very early school tracking policy. Our calibrated model predicts that an education reform that postpones the tracking age from ten to fourteen generates sizable improvements in intergenerational mobility but comes at the cost of modest losses in aggregate human capital and economic output, reducing aggregate welfare. This efficiency-mobility trade-off is rooted in the effects of longer comprehensive schooling on child learning and depends crucially on the presence of general equilibrium effects in the labor market. Finally, our calibrated model predicts that policies reducing the parental influence in the school track choice increase both social mobility and aggregate economic output, improving aggregate welfare.</description>
-    </item>
-    
-    <item>
-      <title>Private Information in the Family</title>
-      <link>https://suzannebellue.github.io/research/family_asymmetry/</link>
-      <pubDate>Wed, 21 Feb 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://suzannebellue.github.io/research/family_asymmetry/</guid>
-      <description>We theoretically and empirically investigate the hypothesis that private information plays a role within families. While standard theory implies that changes in relative income do not affect relative consumption in couples, we find a positive relationship in Dutch panel data. We collected data on how spouses share information with each other within the same panel and split our sample into those couples that are fully informed about each other&amp;rsquo;s income and those that are not. We find that the positive relationship between income and consumption shares is entirely driven by those couples that are not fully informed about each other&amp;rsquo;s income. This holds true when adding couple fixed effects, so that, indeed, a change in relative income within a given couple affects their consumption sharing. These findings are consistent with an optimal contracting model with private information. In the model, to provide incentives to share information with each other, the spouse who receives an income increase gets a larger promised utility, which is isomorphic to an increase in the bargaining weight. These findings suggest that information asymmetries are more relevant for families than previously believed.</description>
     </item>
     
     <item>
