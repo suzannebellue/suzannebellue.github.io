@@ -17,15 +17,6 @@
     </item>
     
     <item>
-      <title>Residential and Social Mobility: A Quantitative Analysis of Parental Decisions with Social Learning</title>
-      <link>https://suzannebellue.github.io/research/neighborhoods/</link>
-      <pubDate>Thu, 03 Jul 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://suzannebellue.github.io/research/neighborhoods/</guid>
-      <description>In the U.S., beliefs about parenting and parental choices differ across socioeconomic groups. This paper develops an overlapping generations model with social learning, where young adults form beliefs about parenting by observing neighbors but may make inference mistakes due to selection neglect&amp;mdash;imperfect correction for selection. In equilibrium, residential segregation generates information frictions that foster heterogeneous beliefs and distort parenting decisions. When calibrated to the U.S., the model suggests these beliefs reduce equity and efficiency, and housing vouchers can enhance both social mobility and aggregate income. In contrast, a model that replaces beliefs with fixed preference heterogeneity predicts income losses.</description>
-    </item>
-    
-    <item>
       <title>Efficiency and Equity of Education Tracking: A Quantitative Analysis</title>
       <link>https://suzannebellue.github.io/research/tracking/</link>
       <pubDate>Mon, 18 Mar 2024 00:00:00 +0000</pubDate>
@@ -41,6 +32,15 @@
       
       <guid>https://suzannebellue.github.io/research/togoimpact/</guid>
       <description>We study whether program impacts can be estimated using a combination of digital trace data and machine learning. In a randomized controlled trial of cash transfers in Togo, endline survey data indicate positive treatment effects on food security, mental health, and perceived economic status. However, estimates of impact based solely on predicted endline outcomes (generated using trace data and machine learning, which do successfully predict baseline poverty) are generally not statistically significant. When post-treatment outcome data are used in conjunction with predictions to estimate treatment effects, predicted impacts are similar to those estimated using surveys.</description>
+    </item>
+    
+    <item>
+      <title>Residential and Social Mobility: A Quantitative Analysis of Parental Decisions with Social Learning</title>
+      <link>https://suzannebellue.github.io/research/neighborhoods/</link>
+      <pubDate>Wed, 03 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://suzannebellue.github.io/research/neighborhoods/</guid>
+      <description>In the U.S., beliefs about parenting and parental choices differ across socioeconomic groups. This paper develops an overlapping generations model with social learning, where young adults form beliefs about parenting by observing neighbors but may make inference mistakes due to selection neglect&amp;mdash;imperfect correction for selection. In equilibrium, residential segregation generates information frictions that foster heterogeneous beliefs and distort parenting decisions. When calibrated to the U.S., the model suggests these beliefs reduce equity and efficiency, and housing vouchers can enhance both social mobility and aggregate income. In contrast, a model that replaces beliefs with fixed preference heterogeneity predicts income losses.</description>
     </item>
     
     <item>

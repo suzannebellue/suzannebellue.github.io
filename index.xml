@@ -26,7 +26,7 @@
     </item>
     
     <item>
-      <title>QCM: PIB &amp; Mesure du niveau de vie</title>
+      <title>QCM : PIB &amp; Mesure du niveau de vie</title>
       <link>https://suzannebellue.github.io/quiz/quizzpib/</link>
       <pubDate>Sun, 18 Jan 2026 00:00:00 +0000</pubDate>
       
@@ -58,7 +58,7 @@ B. positif et constant</description>
     </item>
     
     <item>
-      <title>QCM: La consommation</title>
+      <title>QCM : La consommation</title>
       <link>https://suzannebellue.github.io/quiz/quizzconsommation/</link>
       <pubDate>Fri, 16 Jan 2026 00:00:00 +0000</pubDate>
       
@@ -81,7 +81,7 @@ C. approximativement constant</description>
     </item>
     
     <item>
-      <title>QCM: Marché du travail</title>
+      <title>QCM : Marché du travail</title>
       <link>https://suzannebellue.github.io/quiz/quizztravail/</link>
       <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
       
@@ -108,7 +108,7 @@ B. négatif sur loisir</description>
     </item>
     
     <item>
-      <title>QCM: Investissement</title>
+      <title>QCM : Investissement</title>
       <link>https://suzannebellue.github.io/quiz/quizzinvestissement/</link>
       <pubDate>Wed, 14 Jan 2026 00:00:00 +0000</pubDate>
       
@@ -131,7 +131,7 @@ C. Les flux futurs sont positifs</description>
     </item>
     
     <item>
-      <title>QCM: Equilibre général et autres concepts</title>
+      <title>QCM : Equilibre général et autres concepts</title>
       <link>https://suzannebellue.github.io/quiz/quizzequilibre/</link>
       <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
       
@@ -144,15 +144,6 @@ C. Il lisse sa consommation entre périodes.
 D. Il ignore le taux d&#39;intérêt.
 E. En moyenne, il anticipe correctement son revenu futur.
 2. (Examen 2025) Le premier théorème du bien-être affirme que :</description>
-    </item>
-    
-    <item>
-      <title>Residential and Social Mobility: A Quantitative Analysis of Parental Decisions with Social Learning</title>
-      <link>https://suzannebellue.github.io/research/neighborhoods/</link>
-      <pubDate>Thu, 03 Jul 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://suzannebellue.github.io/research/neighborhoods/</guid>
-      <description>In the U.S., beliefs about parenting and parental choices differ across socioeconomic groups. This paper develops an overlapping generations model with social learning, where young adults form beliefs about parenting by observing neighbors but may make inference mistakes due to selection neglect&amp;mdash;imperfect correction for selection. In equilibrium, residential segregation generates information frictions that foster heterogeneous beliefs and distort parenting decisions. When calibrated to the U.S., the model suggests these beliefs reduce equity and efficiency, and housing vouchers can enhance both social mobility and aggregate income. In contrast, a model that replaces beliefs with fixed preference heterogeneity predicts income losses.</description>
     </item>
     
     <item>
@@ -171,6 +162,15 @@ E. En moyenne, il anticipe correctement son revenu futur.
       
       <guid>https://suzannebellue.github.io/research/togoimpact/</guid>
       <description>We study whether program impacts can be estimated using a combination of digital trace data and machine learning. In a randomized controlled trial of cash transfers in Togo, endline survey data indicate positive treatment effects on food security, mental health, and perceived economic status. However, estimates of impact based solely on predicted endline outcomes (generated using trace data and machine learning, which do successfully predict baseline poverty) are generally not statistically significant. When post-treatment outcome data are used in conjunction with predictions to estimate treatment effects, predicted impacts are similar to those estimated using surveys.</description>
+    </item>
+    
+    <item>
+      <title>Residential and Social Mobility: A Quantitative Analysis of Parental Decisions with Social Learning</title>
+      <link>https://suzannebellue.github.io/research/neighborhoods/</link>
+      <pubDate>Wed, 03 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://suzannebellue.github.io/research/neighborhoods/</guid>
+      <description>In the U.S., beliefs about parenting and parental choices differ across socioeconomic groups. This paper develops an overlapping generations model with social learning, where young adults form beliefs about parenting by observing neighbors but may make inference mistakes due to selection neglect&amp;mdash;imperfect correction for selection. In equilibrium, residential segregation generates information frictions that foster heterogeneous beliefs and distort parenting decisions. When calibrated to the U.S., the model suggests these beliefs reduce equity and efficiency, and housing vouchers can enhance both social mobility and aggregate income. In contrast, a model that replaces beliefs with fixed preference heterogeneity predicts income losses.</description>
     </item>
     
     <item>
